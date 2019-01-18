@@ -1,4 +1,4 @@
-# Kryptowaehrungen-und-Blockchains
+# Kryptowährungen und Blockchains
 
 Willkommen 
 
