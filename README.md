@@ -10,4 +10,5 @@ Mit einem rechtsclick auf die Links.
 sss
 
 
+2.1: bitcoin.org/bitcoin.pdf
 
