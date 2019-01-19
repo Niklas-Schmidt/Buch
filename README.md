@@ -10,10 +10,14 @@ Willkommen zu der begleitenden Website zu dem Buch "Kryptowährungen und Blockch
 
 
 
+
+
+<a href="read.bi/2z0bUBp/" target="_blank">11.15</a>
+
+
+sss
 ab  hier ignorieren:
 
-<a href="read.bi/2z0bUBp" target="_blank">11.15</a>
-sss
 
 
 2.1: bitcoin.org/bitcoin.pdf
