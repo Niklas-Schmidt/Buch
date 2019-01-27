@@ -5,22 +5,3 @@ Willkommen zu der begleitenden Website zu dem Buch "Kryptowährungen und Blockch
 
 [11.15](http://read.bi/2z0bUBp){:target="_blank"}
 
-
-<a href="http://example.com/" target="_blank">Hello, world!</a>
-
-
-
-
-
-
-
-<a href="read.bi/2z0bUBp/" target="_blank">11.15</a>
-
-
-sss
-ab  hier ignorieren:
-
-
-
-2.1: bitcoin.org/bitcoin.pdf
-
