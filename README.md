@@ -1,6 +1,6 @@
 # Kryptowährungen und Blockchains
 
-Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch **"Kryptowährungen und Blockchains"**. Ich hoffe, das Buch erfüllt Ihre Erwartungen. Zum einfacheren Öffnen in einem Browser finden Sie hier die in dem Buch abgedruckten Links. 
+Willkommen zu der begleitenden Website betreffend das im [Linde Verlag](http://www.lindeverlag.at){:target="_blank"} erschienene Buch **"Kryptowährungen und Blockchains"**. Ich hoffe, das Buch erfüllt Ihre Erwartungen. Zum einfacheren Öffnen in einem Browser finden Sie hier die dort abgedruckten Links. 
 
 > Kapitelübersicht:
 > 
