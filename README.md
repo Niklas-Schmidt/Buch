@@ -70,11 +70,13 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 
 - [2.9 - bit.ly/2O7U1WS](http://bit.ly/2O7U1WS){:target="_blank"}
 
-## Kapitel 3: Vergleich von Bitcoins mit konventionellem Geld <a name="k3"></a>
+<a name="k3"></a>
+## Kapitel 3: Vergleich von Bitcoins mit konventionellem Geld 
 
 - [3.15 - bit.ly/2qbn2HD](http://bit.ly/2qbn2HD){:target="_blank"}
 
-## Kapitel 4: Erwerb und Verlust von Bitcoins <a name="k4"></a>
+<a name="k4"></a>
+## Kapitel 4: Erwerb und Verlust von Bitcoins 
 
 - [4.2 - localbitcoins.com](http://localbitcoins.com){:target="_blank"}
 
@@ -92,7 +94,8 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 
 - [4.10 - bitpanda.com/en/togo](http://bitpanda.com/en/togo){:target="_blank"}
 
-## Kapitel 5: Blockchain <a name="k5"></a>
+<a name="k5"></a>
+## Kapitel 5: Blockchain 
 
 - [5.9 - bit.ly/2EKJCkw](http://bit.ly/2EKJCkw){:target="_blank"}
 
@@ -120,7 +123,8 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 
 - [5.25 - bit.ly/2IKJ2Vy](http://bit.ly/2IKJ2Vy){:target="_blank"}
 
-## Kapitel 6: Mining <a name="k6"></a>
+<a name="k6"></a>
+## Kapitel 6: Mining 
 
 - [6.13 - bit.ly/2JeDnE8](http://bit.ly/2JeDnE8){:target="_blank"}
 
@@ -146,7 +150,8 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 
 - [6.32 - bit.ly/2PPzOXT](http://bit.ly/2PPzOXT){:target="_blank"}
 
-## Kapitel 7: Altcoins <a name="k7"></a>
+<a name="k7"></a>
+## Kapitel 7: Altcoins 
 
 - [7.1 - build-a-co.in](http://build-a-co.in){:target="_blank"}
 
@@ -156,7 +161,8 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
                           
 - [7.13 - stable.report](http://stable.report){:target="_blank"}
 
-## Kapitel 8: Ethereum <a name="k8"></a>
+<a name="k8"></a>
+## Kapitel 8: Ethereum 
 
 - [8.3 - bit.ly/2i2IRpB](http://bit.ly/2i2IRpB){:target="_blank"}
 
