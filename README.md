@@ -1,7 +1,7 @@
 # Kryptowährungen und Blockchains
 
 Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch **"Kryptowährungen und Blockchains"**. Ich hoffe, das Buch erfüllt Ihre Erwartungen. Zum einfacheren Öffnen in einem Browser finden Sie hier die in dem Buch abgedruckten Links. 
-
+<font size="+1">Description
 > Kapitelübersicht:
 > 
 > [Kapitel 2: Historische Entwicklung](#k2)  
@@ -26,6 +26,7 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 > [Kapitel 26: Kryptowährungen im Aufsichtsrecht](#k26)  
 > 
 
+</font>
 
 <h1><div style="text-align: center">--- --- ---</div></h1>
 
