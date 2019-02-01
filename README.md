@@ -5,6 +5,27 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 Kapitelübersicht:
 
 [Kapitel 2: Historische Entwicklung](#k2)
+[Kapitel 3: Vergleich von Bitcoins mit konventionellem Geld](k3)
+[Kapitel 4: Erwerb und Verlust von Bitcoins](k4)
+[Kapitel 5: Blockchain](k5)
+[Kapitel 6: Mining](k6)
+[Kapitel 7: Altcoins](k7)
+[Kapitel 8: Ethereum](k8)
+[Kapitel 9: ICOs](k9)
+[Kapitel 10: Coins und Tokens](k10)
+[Kapitel 11: Wallets](k11)
+[Kapitel 12: Exchanges](k12)
+[Kapitel 14: Investieren in Kryptowährungen](k14)
+[Kapitel 16: Zukunft von Kryptowährungen](k16)
+[Kapitel 17: Disruption durch Blockchain-Technologie](k17)
+[Kapitel 19: Kryptowährungen im Bilanzrecht](k19)
+[Kapitel 20: Kryptowährungen im Steuerrecht](k20)
+[Kapitel 21: Kryptowährungen im Gesellschaftsrecht](k21)
+[Kapitel 23: Kryptowährungen im Geldwäscherecht](k23)
+[Kapitel 24: Kryptowährungen im Gewerberecht](k24)
+[Kapitel 26: Kryptowährungen im Aufsichtsrecht](k26)
+
+
 
 <div style="text-align: center">**--- --- ---**</div>
 
