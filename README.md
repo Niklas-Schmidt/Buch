@@ -4,7 +4,7 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 
 ## Kapitel 2: Historische Entwicklung
 
-[2.1 - bitcoin.org/bitcoin.pdf](http://bitcoin.org/bitcoin.pdf){:target="_blank"}
+- [ ] [2.1 - bitcoin.org/bitcoin.pdf](http://bitcoin.org/bitcoin.pdf){:target="_blank"}
 
 [2.5 - bit.ly/2qaIlZT](http://bit.ly/2qaIlZT){:target="_blank"}
 
@@ -22,7 +22,7 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 
 [2.9 - bit.ly/2O7U1WS](http://bit.ly/2O7U1WS){:target="_blank"}
 
-Kapitel 3: Vergleich von Bitcoins mit konventionellem Geld
+## Kapitel 3: Vergleich von Bitcoins mit konventionellem Geld
 
 [3.15 - bit.ly/2qbn2HD](http://bit.ly/2qbn2HD){:target="_blank"}
 
@@ -44,7 +44,7 @@ Kapitel 4: Erwerb und Verlust von Bitcoins
 
 [4.10 - bitpanda.com/en/togo](http://bitpanda.com/en/togo){:target="_blank"}
 
-Kapitel 5: Blockchain
+## Kapitel 5: Blockchain
 
 [5.9 - bit.ly/2EKJCkw](http://bit.ly/2EKJCkw){:target="_blank"}
 
@@ -72,7 +72,7 @@ Kapitel 5: Blockchain
 
 [5.25 - bit.ly/2IKJ2Vy](http://bit.ly/2IKJ2Vy){:target="_blank"}
 
-Kepitel 6: Mining
+## Kapitel 6: Mining
 
 [6.13 - bit.ly/2JeDnE8](http://bit.ly/2JeDnE8){:target="_blank"}
 
@@ -98,7 +98,7 @@ Kepitel 6: Mining
 
 [6.32 - bit.ly/2PPzOXT](http://bit.ly/2PPzOXT){:target="_blank"}
 
-Kepitel 7: Altcoins
+## Kapitel 7: Altcoins
 
 [7.1 - build-a-co.in](http://build-a-co.in){:target="_blank"}
 
@@ -108,7 +108,7 @@ Kepitel 7: Altcoins
                           
 [7.13 - stable.report](http://stable.report){:target="_blank"}
 
-Kepitel 8: Ethereum
+## Kapitel 8: Ethereum
 
 [8.3 - bit.ly/2i2IRpB](http://bit.ly/2i2IRpB){:target="_blank"}
 
@@ -139,6 +139,8 @@ Kepitel 8: Ethereum
 [8.18 - isiterc20.com](http://isiterc20.com){:target="_blank"}
 
 [8.19 - cryptokitties.co](http://cryptokitties.co){:target="_blank"}
+
+## Kapitel 9: ICOs
 
 [9.1 - bit.ly/2EGhfnC](http://bit.ly/2EGhfnC){:target="_blank"}
 
@@ -185,6 +187,8 @@ Kepitel 8: Ethereum
 [9.8 - bit.ly/2Iv56zr](http://bit.ly/2Iv56zr){:target="_blank"}
 
 [9.13 - bit.ly/2J7OXDv](http://bit.ly/2J7OXDv){:target="_blank"}
+
+## Kapitel 10: Coins und Tokens
 
 [10.2 - coinmarketcap.com](http://coinmarketcap.com){:target="_blank"}
 
@@ -388,6 +392,8 @@ Kepitel 8: Ethereum
 
 [10.3 - onchainfx.com/categories](http://onchainfx.com/categories){:target="_blank"}
 
+## Kapitel 11: Wallets
+
 [11.7 - blockchain.com/wallet](http://blockchain.com/wallet){:target="_blank"}
 
 [11.7 - brd.com](http://brd.com){:target="_blank"}
@@ -440,6 +446,8 @@ Kepitel 8: Ethereum
 
 [11.18 - trezor.io](http://trezor.io){:target="_blank"}
 
+## Kapitel 12: Exchanges
+
 [12.2 - coinmarketcap.com/rankings/exchanges](http://coinmarketcap.com/rankings/exchanges){:target="_blank"}
 
 [12.2 - binance.com](http://binance.com){:target="_blank"}
@@ -467,6 +475,8 @@ Kepitel 8: Ethereum
 [12.13 - bitmex.com](http://bitmex.com){:target="_blank"}
 
 [12.13 - deribit.com](http://deribit.com){:target="_blank"}
+
+## Kapitel 14: Investieren in Kryptowährungen
 
 [14.2 - bit.ly/2OILjDB](http://bit.ly/2OILjDB){:target="_blank"}
 
@@ -596,6 +606,8 @@ Kepitel 8: Ethereum
 
 [14.21 - coinmarketgame.com](http://coinmarketgame.com){:target="_blank"}
 
+## Kapitel 16: Zukunft von Kryptowährungen
+
 [16.1 - bit.ly/2CExhM1](http://bit.ly/2CExhM1){:target="_blank"}
 
 [16.2 - scambitcoin.com](http://scambitcoin.com){:target="_blank"}
@@ -621,6 +633,8 @@ Kepitel 8: Ethereum
 [16.11 – miningrigrentals.com](http://miningrigrentals.com){:target="_blank"}
 
 [16.11 - bit.ly/2D3hB69](http://bit.ly/2D3hB69){:target="_blank"}
+
+## Kapitel 17: Disruption durch Blockchain-Technologie
 
 [17.4 - bit.ly/1KlN8ZR](http://bit.ly/1KlN8ZR){:target="_blank"}
 
@@ -678,7 +692,11 @@ Kepitel 8: Ethereum
 
 [17.12 - blockchainhub.net](http://blockchainhub.net){:target="_blank"}
 
+## Kapitel 19: Kryptowährungen im Bilanzrecht
+
 [19.7 - coinmarketcap.com](http://coinmarketcap.com){:target="_blank"}
+
+## Kapitel 20: Kryptowährungen im Steuerrecht
 
 [20.1. - bit.ly/2E5eGdT](http://bit.ly/2E5eGdT){:target="_blank"}
 
@@ -694,11 +712,19 @@ Kepitel 8: Ethereum
 
 [20.47 - blockpit.io](http://blockpit.io){:target="_blank"}
 
+## Kapitel 21: Kryptowährungen im Gesellschaftsrecht
+
 [21.1 - bit.ly/2OWNdMp](http://bit.ly/2OWNdMp){:target="_blank"}
+
+## Kapitel 23: Kryptowährungen im Geldwäscherecht
 
 [23.1 - bit.ly/1sYPzPM](http://bit.ly/1sYPzPM){:target="_blank"}
 
+## Kapitel 24: Kryptowährungen im Gewerberecht
+
 [24.4 - bit.ly/2qIiEjB](http://bit.ly/2qIiEjB){:target="_blank"}
+
+## Kapitel 26: Kryptowährungen im Aufsichtsrecht
 
 [26.2 - bit.ly/2G4hNnV](http://bit.ly/2G4hNnV){:target="_blank"}
 
