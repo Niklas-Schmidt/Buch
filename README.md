@@ -2,9 +2,11 @@
 
 Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch **"Kryptowährungen und Blockchains"**. Ich hoffe, das Buch erfüllt Ihre Erwartungen. Zum einfacheren Öffnen in einem Browser finden Sie hier die in dem Buch abgedruckten Links. 
 
-Take me to [pookie](#pookie)
+Kapitelübersicht:
 
-## Kapitel 2: Historische Entwicklung
+[Kapitel 2: Historische Entwicklung](#k2)
+
+## Kapitel 2: Historische Entwicklung <a name="k2"></a>
  
 [create an anchor](#anchors-in-markdown)
 
@@ -26,11 +28,11 @@ Take me to [pookie](#pookie)
 
 - [2.9 - bit.ly/2O7U1WS](http://bit.ly/2O7U1WS){:target="_blank"}
 
-## Kapitel 3: Vergleich von Bitcoins mit konventionellem Geld <a name="pookie"></a>
+## Kapitel 3: Vergleich von Bitcoins mit konventionellem Geld <a name="k3"></a>
 
 - [3.15 - bit.ly/2qbn2HD](http://bit.ly/2qbn2HD){:target="_blank"}
 
-## Kapitel 4: Erwerb und Verlust von Bitcoins
+## Kapitel 4: Erwerb und Verlust von Bitcoins <a name="k4"></a>
 
 - [4.2 - localbitcoins.com](http://localbitcoins.com){:target="_blank"}
 
@@ -48,7 +50,7 @@ Take me to [pookie](#pookie)
 
 - [4.10 - bitpanda.com/en/togo](http://bitpanda.com/en/togo){:target="_blank"}
 
-## Kapitel 5: Blockchain
+## Kapitel 5: Blockchain <a name="k5"></a>
 
 - [5.9 - bit.ly/2EKJCkw](http://bit.ly/2EKJCkw){:target="_blank"}
 
@@ -76,7 +78,7 @@ Take me to [pookie](#pookie)
 
 - [5.25 - bit.ly/2IKJ2Vy](http://bit.ly/2IKJ2Vy){:target="_blank"}
 
-## Kapitel 6: Mining
+## Kapitel 6: Mining <a name="k6"></a>
 
 - [6.13 - bit.ly/2JeDnE8](http://bit.ly/2JeDnE8){:target="_blank"}
 
@@ -102,7 +104,7 @@ Take me to [pookie](#pookie)
 
 - [6.32 - bit.ly/2PPzOXT](http://bit.ly/2PPzOXT){:target="_blank"}
 
-## Kapitel 7: Altcoins
+## Kapitel 7: Altcoins <a name="k7"></a>
 
 - [7.1 - build-a-co.in](http://build-a-co.in){:target="_blank"}
 
@@ -112,7 +114,7 @@ Take me to [pookie](#pookie)
                           
 - [7.13 - stable.report](http://stable.report){:target="_blank"}
 
-## Kapitel 8: Ethereum
+## Kapitel 8: Ethereum <a name="k8"></a>
 
 - [8.3 - bit.ly/2i2IRpB](http://bit.ly/2i2IRpB){:target="_blank"}
 
@@ -144,7 +146,7 @@ Take me to [pookie](#pookie)
 
 - [8.19 - cryptokitties.co](http://cryptokitties.co){:target="_blank"}
 
-## Kapitel 9: ICOs
+## Kapitel 9: ICOs <a name="k9"></a>
 
 - [9.1 - bit.ly/2EGhfnC](http://bit.ly/2EGhfnC){:target="_blank"}
 
@@ -170,67 +172,67 @@ Take me to [pookie](#pookie)
 
 - [9.7 – icobench.com](http://icobench.com){:target="_blank"}
 
-[9.7 – icodrops.com](http://icodrops.com){:target="_blank"}
+- [9.7 – icodrops.com](http://icodrops.com){:target="_blank"}
 
-[9.7 – icorating.com](http://icorating.com){:target="_blank"}
+- [9.7 – icorating.com](http://icorating.com){:target="_blank"}
 
-[9.7 – icotracker.net](http://icotracker.net){:target="_blank"}
+- [9.7 – icotracker.net](http://icotracker.net){:target="_blank"}
 
-[9.7 – icowatchlist.com](http://icowatchlist.com){:target="_blank"}
+- [9.7 – icowatchlist.com](http://icowatchlist.com){:target="_blank"}
 
-[9.7 – smithandcrown.com/sale](http://smithandcrown.com/sale){:target="_blank"}
+- [9.7 – smithandcrown.com/sale](http://smithandcrown.com/sale){:target="_blank"}
 
-[9.7 - topicolist.com](http://topicolist.com){:target="_blank"}
+- [9.7 - topicolist.com](http://topicolist.com){:target="_blank"}
 
-[9.8 - bit.ly/2AobhDL](http://bit.ly/2AobhDL){:target="_blank"}
+- [9.8 - bit.ly/2AobhDL](http://bit.ly/2AobhDL){:target="_blank"}
 
-[9.8 - on.ft.com/2vtPfyX](http://on.ft.com/2vtPfyX){:target="_blank"}
+- [9.8 - on.ft.com/2vtPfyX](http://on.ft.com/2vtPfyX){:target="_blank"}
 
-[9.8 - uetoken.com](http://uetoken.com){:target="_blank"}
+- [9.8 - uetoken.com](http://uetoken.com){:target="_blank"}
 
-[9.8 - bit.ly/2Iv56zr](http://bit.ly/2Iv56zr){:target="_blank"}
+- [9.8 - bit.ly/2Iv56zr](http://bit.ly/2Iv56zr){:target="_blank"}
 
-[9.13 - bit.ly/2J7OXDv](http://bit.ly/2J7OXDv){:target="_blank"}
+- [9.13 - bit.ly/2J7OXDv](http://bit.ly/2J7OXDv){:target="_blank"}
 
-## Kapitel 10: Coins und Tokens
+## Kapitel 10: Coins und Tokens <a name="k10"></a>
 
-[10.2 - coinmarketcap.com](http://coinmarketcap.com){:target="_blank"}
+- [10.2 - coinmarketcap.com](http://coinmarketcap.com){:target="_blank"}
 
-[10.2 - 0xproject.com](http://0xproject.com){:target="_blank"}
+- [10.2 - 0xproject.com](http://0xproject.com){:target="_blank"}
 
-[10.2 - aelf.io](http://aelf.io){:target="_blank"}
+- [10.2 - aelf.io](http://aelf.io){:target="_blank"}
 
-[10.2 - aeternity.com](http://aeternity.com){:target="_blank"}
+- [10.2 - aeternity.com](http://aeternity.com){:target="_blank"}
 
-[10.2 - aion.network](http://aion.network){:target="_blank"}
+- [10.2 - aion.network](http://aion.network){:target="_blank"}
 
-[10.2 - ardorplatform.org](http://ardorplatform.org){:target="_blank"}
+- [10.2 - ardorplatform.org](http://ardorplatform.org){:target="_blank"}
 
-[10.2 - ark.io](http://ark.io){:target="_blank"}
+- [10.2 - ark.io](http://ark.io){:target="_blank"}
 
-[10.2 - augur.net](http://augur.net){:target="_blank"}
+- [10.2 - augur.net](http://augur.net){:target="_blank"}
 
-[10.2 - aurorachain.io](http://aurorachain.io){:target="_blank"}
+- [10.2 - aurorachain.io](http://aurorachain.io){:target="_blank"}
 
-[10.2 - bancor.network](http://bancor.network){:target="_blank"}
+- [10.2 - bancor.network](http://bancor.network){:target="_blank"}
 
-[10.2 - basicattentiontoken.org](http://basicattentiontoken.org){:target="_blank"}
+- [10.2 - basicattentiontoken.org](http://basicattentiontoken.org){:target="_blank"}
 
-[10.2 - binance.com/en](http://binance.com/en){:target="_blank"}
+- [10.2 - binance.com/en](http://binance.com/en){:target="_blank"}
 
-[10.2 - bitcoin.org](http://bitcoin.org){:target="_blank"}
+- [10.2 - bitcoin.org](http://bitcoin.org){:target="_blank"}
 
-[10.2 - bitcoincash.org](http://bitcoincash.org){:target="_blank"}
+- [10.2 - bitcoincash.org](http://bitcoincash.org){:target="_blank"}
 
-[10.2 - btcd.io](http://btcd.io){:target="_blank"}
+- [10.2 - btcd.io](http://btcd.io){:target="_blank"}
 
-[10.2 - bitcoingold.org](http://bitcoingold.org){:target="_blank"}
+- [10.2 - bitcoingold.org](http://bitcoingold.org){:target="_blank"}
 
-[10.2 - bitshares.org](http://bitshares.org){:target="_blank"}
+- [10.2 - bitshares.org](http://bitshares.org){:target="_blank"}
 
-[10.2 - boscoin.io](http://boscoin.io){:target="_blank"}
+- [10.2 - boscoin.io](http://boscoin.io){:target="_blank"}
 
-[10.2 - bytecoin.org](http://bytecoin.org){:target="_blank"}
+- [10.2 - bytecoin.org](http://bytecoin.org){:target="_blank"}
 
 [10.2 - bytom.io](http://bytom.io){:target="_blank"}
 
@@ -396,7 +398,7 @@ Take me to [pookie](#pookie)
 
 [10.3 - onchainfx.com/categories](http://onchainfx.com/categories){:target="_blank"}
 
-## Kapitel 11: Wallets
+## Kapitel 11: Wallets <a name="k11"></a>
 
 [11.7 - blockchain.com/wallet](http://blockchain.com/wallet){:target="_blank"}
 
@@ -450,7 +452,7 @@ Take me to [pookie](#pookie)
 
 [11.18 - trezor.io](http://trezor.io){:target="_blank"}
 
-## Kapitel 12: Exchanges
+## Kapitel 12: Exchanges <a name="k12"></a>
 
 [12.2 - coinmarketcap.com/rankings/exchanges](http://coinmarketcap.com/rankings/exchanges){:target="_blank"}
 
@@ -480,7 +482,7 @@ Take me to [pookie](#pookie)
 
 [12.13 - deribit.com](http://deribit.com){:target="_blank"}
 
-## Kapitel 14: Investieren in Kryptowährungen
+## Kapitel 14: Investieren in Kryptowährungen <a name="k14"></a>
 
 [14.2 - bit.ly/2OILjDB](http://bit.ly/2OILjDB){:target="_blank"}
 
@@ -610,7 +612,7 @@ Take me to [pookie](#pookie)
 
 [14.21 - coinmarketgame.com](http://coinmarketgame.com){:target="_blank"}
 
-## Kapitel 16: Zukunft von Kryptowährungen
+## Kapitel 16: Zukunft von Kryptowährungen <a name="k16"></a>
 
 [16.1 - bit.ly/2CExhM1](http://bit.ly/2CExhM1){:target="_blank"}
 
@@ -638,7 +640,7 @@ Take me to [pookie](#pookie)
 
 [16.11 - bit.ly/2D3hB69](http://bit.ly/2D3hB69){:target="_blank"}
 
-## Kapitel 17: Disruption durch Blockchain-Technologie
+## Kapitel 17: Disruption durch Blockchain-Technologie <a name="k17"></a>
 
 [17.4 - bit.ly/1KlN8ZR](http://bit.ly/1KlN8ZR){:target="_blank"}
 
@@ -696,11 +698,11 @@ Take me to [pookie](#pookie)
 
 [17.12 - blockchainhub.net](http://blockchainhub.net){:target="_blank"}
 
-## Kapitel 19: Kryptowährungen im Bilanzrecht
+## Kapitel 19: Kryptowährungen im Bilanzrecht <a name="k19"></a>
 
 [19.7 - coinmarketcap.com](http://coinmarketcap.com){:target="_blank"}
 
-## Kapitel 20: Kryptowährungen im Steuerrecht
+## Kapitel 20: Kryptowährungen im Steuerrecht <a name="k20"></a>
 
 [20.1. - bit.ly/2E5eGdT](http://bit.ly/2E5eGdT){:target="_blank"}
 
@@ -716,19 +718,19 @@ Take me to [pookie](#pookie)
 
 [20.47 - blockpit.io](http://blockpit.io){:target="_blank"}
 
-## Kapitel 21: Kryptowährungen im Gesellschaftsrecht
+## Kapitel 21: Kryptowährungen im Gesellschaftsrecht <a name="k21"></a>
 
 [21.1 - bit.ly/2OWNdMp](http://bit.ly/2OWNdMp){:target="_blank"}
 
-## Kapitel 23: Kryptowährungen im Geldwäscherecht
+## Kapitel 23: Kryptowährungen im Geldwäscherecht <a name="k23"></a>
 
 [23.1 - bit.ly/1sYPzPM](http://bit.ly/1sYPzPM){:target="_blank"}
 
-## Kapitel 24: Kryptowährungen im Gewerberecht
+## Kapitel 24: Kryptowährungen im Gewerberecht <a name="k24"></a>
 
 [24.4 - bit.ly/2qIiEjB](http://bit.ly/2qIiEjB){:target="_blank"}
 
-## Kapitel 26: Kryptowährungen im Aufsichtsrecht
+## Kapitel 26: Kryptowährungen im Aufsichtsrecht <a name="k26"></a>
 
 [26.2 - bit.ly/2G4hNnV](http://bit.ly/2G4hNnV){:target="_blank"}
 
