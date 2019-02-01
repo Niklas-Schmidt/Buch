@@ -356,219 +356,118 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 <a name="k11"></a>
 ## Kapitel 11: Wallets 
 
-- [11.7 - blockchain.com/wallet](http://blockchain.com/wallet){:target="_blank"}
-
-- [11.7 - brd.com](http://brd.com){:target="_blank"}
-
-- [11.7 - coinomi.com](http://coinomi.com){:target="_blank"}
-
-- [11.7 - coin.space](http://coin.space){:target="_blank"}
-
-- [11.7 - copay.io](http://copay.io){:target="_blank"}
-
-- [11.7 - cryptonator.com](http://cryptonator.com){:target="_blank"}
-
-- [11.7 - dash.org/wallets](http://dash.org/wallets){:target="_blank"}
-
-- [11.7 - edge.app](http://edge.app){:target="_blank"}
-
-- [11.7 - eidoo.io](http://eidoo.io){:target="_blank"}
-
-- [11.7 - electrum.org](http://electrum.org){:target="_blank"}
-
-- [11.7 - token.im](http://token.im){:target="_blank"}
-
-- [11.7 - jaxx.io](http://jaxx.io){:target="_blank"}
-
-- [11.7 - monerujo.io](http://monerujo.io){:target="_blank"}
-
-- [11.7 - wallet.mycelium.com](http://wallet.mycelium.com){:target="_blank"}
-
-- [11.7 - samouraiwallet.com](http://samouraiwallet.com){:target="_blank"}
-
-- [11.7 - toastwallet.com](http://toastwallet.com){:target="_blank"}
-
-- [11.8 - bit.ly/2PQkudo](http://bit.ly/2PQkudo){:target="_blank"}
-
-- [11.8 - bitaddress.org](http://bitaddress.org){:target="_blank"}
-
+- [11.7 - blockchain.com/wallet](http://blockchain.com/wallet){:target="_blank"}  
+- [11.7 - brd.com](http://brd.com){:target="_blank"}  
+- [11.7 - coinomi.com](http://coinomi.com){:target="_blank"}  
+- [11.7 - coin.space](http://coin.space){:target="_blank"}  
+- [11.7 - copay.io](http://copay.io){:target="_blank"}  
+- [11.7 - cryptonator.com](http://cryptonator.com){:target="_blank"}  
+- [11.7 - dash.org/wallets](http://dash.org/wallets){:target="_blank"}  
+- [11.7 - edge.app](http://edge.app){:target="_blank"}  
+- [11.7 - eidoo.io](http://eidoo.io){:target="_blank"}  
+- [11.7 - electrum.org](http://electrum.org){:target="_blank"}  
+- [11.7 - token.im](http://token.im){:target="_blank"}  
+- [11.7 - jaxx.io](http://jaxx.io){:target="_blank"}  
+- [11.7 - monerujo.io](http://monerujo.io){:target="_blank"}  
+- [11.7 - wallet.mycelium.com](http://wallet.mycelium.com){:target="_blank"}  
+- [11.7 - samouraiwallet.com](http://samouraiwallet.com){:target="_blank"}  
+- [11.7 - toastwallet.com](http://toastwallet.com){:target="_blank"}  
+- [11.8 - bit.ly/2PQkudo](http://bit.ly/2PQkudo){:target="_blank"}  
+- [11.8 - bitaddress.org](http://bitaddress.org){:target="_blank"}  
 - [11.15 - bitcoinpaperwallet.com](http://bitcoinpaperwallet.com){:target="_blank"}    
-  
 - [11.15 - myetherwallet.com](http://myetherwallet.com){:target="_blank"}          
-
-- [11.15 - paper.dash.org](http://paper.dash.org){:target="_blank"}
-
+- [11.15 - paper.dash.org](http://paper.dash.org){:target="_blank"}  
 - [11.15 – read.bi/2z0bUBp](http://read.bi/2z0bUBp){:target="_blank"}   
-
-- [11.15 - bitcoinpaperwallet.com](http://bitcoinpaperwallet.com){:target="_blank"}
-
-- [11.18 - ledger.com](http://ledger.com){:target="_blank"}
-
-- [11.18 - keepkey.com](http://keepkey.com){:target="_blank"}
-
-- [11.18 - trezor.io](http://trezor.io){:target="_blank"}
+- [11.15 - bitcoinpaperwallet.com](http://bitcoinpaperwallet.com){:target="_blank"}  
+- [11.18 - ledger.com](http://ledger.com){:target="_blank"}  
+- [11.18 - keepkey.com](http://keepkey.com){:target="_blank"}  
+- [11.18 - trezor.io](http://trezor.io){:target="_blank"}  
 
 <a name="k12"></a>
 ## Kapitel 12: Exchanges 
 
-- [12.2 - coinmarketcap.com/rankings/exchanges](http://coinmarketcap.com/rankings/exchanges){:target="_blank"}
-
-- [12.2 - binance.com](http://binance.com){:target="_blank"}
-
-- [12.2 - okex.com](http://okex.com){:target="_blank"}
-
-- [12.2 – digifinex.com](http://digifinex.com){:target="_blank"}
-
-- [12.2 - hbg.com](http://hbg.com){:target="_blank"}
-
-- [12.2 - bit-z.com](http://bit-z.com){:target="_blank"}
-
-- [12.6 - on.ny.gov/2P4HAAs](http://on.ny.gov/2P4HAAs){:target="_blank"}
-
-- [12.9 - changelly.com](http://changelly.com){:target="_blank"}
-
-- [12.9 - coinswitch.co](http://coinswitch.co){:target="_blank"}
-
-- [12.9 - flyp.me](http://flyp.me){:target="_blank"}
-
-- [12.9 - morphtoken.com](http://morphtoken.com){:target="_blank"}
-
-- [12.9 - shapeshift.io](http://shapeshift.io){:target="_blank"}
-
-- [12.13 - bitmex.com](http://bitmex.com){:target="_blank"}
-
-- [12.13 - deribit.com](http://deribit.com){:target="_blank"}
+- [12.2 - coinmarketcap.com/rankings/exchanges](http://coinmarketcap.com/rankings/exchanges){:target="_blank"}  
+- [12.2 - binance.com](http://binance.com){:target="_blank"}  
+- [12.2 - okex.com](http://okex.com){:target="_blank"}  
+- [12.2 – digifinex.com](http://digifinex.com){:target="_blank"}  
+- [12.2 - hbg.com](http://hbg.com){:target="_blank"}  
+- [12.2 - bit-z.com](http://bit-z.com){:target="_blank"}  
+- [12.6 - on.ny.gov/2P4HAAs](http://on.ny.gov/2P4HAAs){:target="_blank"}  
+- [12.9 - changelly.com](http://changelly.com){:target="_blank"}  
+- [12.9 - coinswitch.co](http://coinswitch.co){:target="_blank"}  
+- [12.9 - flyp.me](http://flyp.me){:target="_blank"}  
+- [12.9 - morphtoken.com](http://morphtoken.com){:target="_blank"}  
+- [12.9 - shapeshift.io](http://shapeshift.io){:target="_blank"}  
+- [12.13 - bitmex.com](http://bitmex.com){:target="_blank"}  
+- [12.13 - deribit.com](http://deribit.com){:target="_blank"}  
 
 <a name="k14"></a>
 ## Kapitel 14: Investieren in Kryptowährungen 
 
-- [14.2 - bit.ly/2OILjDB](http://bit.ly/2OILjDB){:target="_blank"}
-
-- [14.3 - on.mktw.net/2DmwcdP](http://on.mktw.net/2DmwcdP){:target="_blank"}
-
-- [14.4 - bit.ly/1Pzd6h0](http://bit.ly/1Pzd6h0){:target="_blank"}
-
-- [14.6 - bit.ly/2EHbR3u](http://bit.ly/2EHbR3u){:target="_blank"}
-
-- [14.9 - bit.ly/2PW5AT0](http://bit.ly/2PW5AT0){:target="_blank"}
-
-- [14.10 - bit.ly/2RctOIU](http://bit.ly/2RctOIU){:target="_blank"}
-
-- [14.10 - deadcoins.com](http://deadcoins.com){:target="_blank"}
-
-- [14.12 - icodata.io/ICO/ended](http://icodata.io/ICO/ended){:target="_blank"}
-
-- [14.13 - blockfolio.com](http://blockfolio.com){:target="_blank"}
-
-- [14.13 - getdelta.io](http://getdelta.io){:target="_blank"}
-
-- [14.14 - bitcoinmagazine.com](http://bitcoinmagazine.com){:target="_blank"}
-
-- [14.14 - blockonomi.com](http://blockonomi.com){:target="_blank"}
-
-- [14.14 - btcmanager.com](http://btcmanager.com){:target="_blank"}
-
-- [14.14 - ccn.com](http://ccn.com){:target="_blank"}
-
-- [14.14 - coindesk.com](http://coindesk.com){:target="_blank"}
-
-- [14.14 - coinfox.info](http://coinfox.info){:target="_blank"}
-
-- [14.14 - coinspectator.com](http://coinspectator.com){:target="_blank"}
-
-- [14.14 - cointelegraph.com](http://cointelegraph.com){:target="_blank"}
-
-- [14.14 - cryptocontrol.io/en/articles](http://cryptocontrol.io/en/articles){:target="_blank"}
-
-- [14.14 - cryptopanic.com](http://cryptopanic.com){:target="_blank"}
-
-- [14.14 - news.bitcoin.com](http://news.bitcoin.com){:target="_blank"}
-
-- [14.14 - themerkle.com](http://themerkle.com){:target="_blank"}
-
-- [14.14 - reddit.com](http://reddit.com){:target="_blank"}
-
-- [14.14 - bitcointalk.org](http://bitcointalk.org){:target="_blank"}
-
-- [14.15 - alltimehigh.ly](http://alltimehigh.ly){:target="_blank"}
-
-- [14.15 - bitgur.com](http://bitgur.com){:target="_blank"}
-
-- [14.15 - bitinfocharts.com/cryptocurrency-exchange-rates](http://bitinfocharts.com/cryptocurrency-exchange-rates){:target="_blank"}
-
-- [14.15 - coin.fyi](http://coin.fyi){:target="_blank"}
-
-- [14.15 - coin360.io](http://coin360.io){:target="_blank"}
-
-- [14.15 - coincap.io](http://coincap.io){:target="_blank"}
-
-- [14.15 - coincheckup.com](http://coincheckup.com){:target="_blank"}
-
-- [14.15 - coincodex.com](http://coincodex.com){:target="_blank"}
-
-- [14.15 - coingecko.com](http://coingecko.com){:target="_blank"}
-
-- [14.15 - coingossip.io](http://coingossip.io){:target="_blank"}
-
-- [14.15 - coinlib.io](http://coinlib.io){:target="_blank"}
-
-- [14.15 - coinmarketcap.com](http://coinmarketcap.com){:target="_blank"}
-
-- [14.15 - cryptalert.com](http://cryptalert.com){:target="_blank"}
-
-- [14.15 - cryptocoincharts.info](http://cryptocoincharts.info){:target="_blank"}
-
-- [14.15 - cryptowat.ch](http://cryptowat.ch){:target="_blank"}
-
-- [14.15 - nomics.com](http://nomics.com){:target="_blank"}
-
-- [14.15 - onchainfx.com](http://onchainfx.com){:target="_blank"}
-
-- [14.15 - solume.io](http://solume.io){:target="_blank"}
-
-- [14.15 - worldcoinindex.com](http://worldcoinindex.com){:target="_blank"}
-
-- [14.16 - coinmarketcal.com](http://coinmarketcal.com){:target="_blank"}
-
-- [14.16 - coinscalendar.com](http://coinscalendar.com){:target="_blank"}
-
-- [14.16 - meetup.com](http://meetup.com){:target="_blank"}
-
-- [14.17 - medium.com/@cburniske](http://medium.com/@cburniske){:target="_blank"}
-
-- [14.17 - elaineou.com](http://elaineou.com){:target="_blank"}
-
-- [14.17 - bit.ly/2HBXJJg](http://bit.ly/2HBXJJg){:target="_blank"}
-
-- [14.17 - unenumerated.blogspot.co.at](http://unenumerated.blogspot.co.at){:target="_blank"}
-
-- [14.17 - prestonbyrne.com/blog](http://prestonbyrne.com/blog){:target="_blank"}
-
-- [14.17 - thecryptocurrencyinvestor.com](http://thecryptocurrencyinvestor.com){:target="_blank"}
-
-- [14.17 - tokeneconomy.co](http://tokeneconomy.co){:target="_blank"}
-
-- [14.17 - medium.com/@tuurdemeester](http://medium.com/@tuurdemeester){:target="_blank"}
-
-- [14.17 - unhashed.com](http://unhashed.com){:target="_blank"}
-
-- [14.17 - woobull.com](http://woobull.com){:target="_blank"}
-
-- [14.18 - bitwiseinvestments.com/indexes](http://bitwiseinvestments.com/indexes){:target="_blank"}
-
-- [14.18 - bletchleyindexes.com](http://bletchleyindexes.com){:target="_blank"}
-
-- [14.18 - mvis-indices.com/indices/digital-assets](http://mvis-indices.com/indices/digital-assets){:target="_blank"}
-
-- [14.18 - thecrix.de](http://thecrix.de){:target="_blank"}
-
-- [14.19 - crypto20.com](http://crypto20.com){:target="_blank"}
-
-- [14.20 - bit.ly/2Ol8wa5](http://bit.ly/2Ol8wa5){:target="_blank"}
-
-- [14.21 - testnet.bitmex.com](http://testnet.bitmex.com){:target="_blank"}
-
-- [14.21 - coinmarketgame.com](http://coinmarketgame.com){:target="_blank"}
+- [14.2 - bit.ly/2OILjDB](http://bit.ly/2OILjDB){:target="_blank"}  
+- [14.3 - on.mktw.net/2DmwcdP](http://on.mktw.net/2DmwcdP){:target="_blank"}  
+- [14.4 - bit.ly/1Pzd6h0](http://bit.ly/1Pzd6h0){:target="_blank"}  
+- [14.6 - bit.ly/2EHbR3u](http://bit.ly/2EHbR3u){:target="_blank"}  
+- [14.9 - bit.ly/2PW5AT0](http://bit.ly/2PW5AT0){:target="_blank"}  
+- [14.10 - bit.ly/2RctOIU](http://bit.ly/2RctOIU){:target="_blank"}  
+- [14.10 - deadcoins.com](http://deadcoins.com){:target="_blank"}  
+- [14.12 - icodata.io/ICO/ended](http://icodata.io/ICO/ended){:target="_blank"}  
+- [14.13 - blockfolio.com](http://blockfolio.com){:target="_blank"}  
+- [14.13 - getdelta.io](http://getdelta.io){:target="_blank"}  
+- [14.14 - bitcoinmagazine.com](http://bitcoinmagazine.com){:target="_blank"}  
+- [14.14 - blockonomi.com](http://blockonomi.com){:target="_blank"}  
+- [14.14 - btcmanager.com](http://btcmanager.com){:target="_blank"}  
+- [14.14 - ccn.com](http://ccn.com){:target="_blank"}  
+- [14.14 - coindesk.com](http://coindesk.com){:target="_blank"}  
+- [14.14 - coinfox.info](http://coinfox.info){:target="_blank"}  
+- [14.14 - coinspectator.com](http://coinspectator.com){:target="_blank"}  
+- [14.14 - cointelegraph.com](http://cointelegraph.com){:target="_blank"}  
+- [14.14 - cryptocontrol.io/en/articles](http://cryptocontrol.io/en/articles){:target="_blank"}  
+- [14.14 - cryptopanic.com](http://cryptopanic.com){:target="_blank"}  
+- [14.14 - news.bitcoin.com](http://news.bitcoin.com){:target="_blank"}  
+- [14.14 - themerkle.com](http://themerkle.com){:target="_blank"}  
+- [14.14 - reddit.com](http://reddit.com){:target="_blank"}  
+- [14.14 - bitcointalk.org](http://bitcointalk.org){:target="_blank"}  
+- [14.15 - alltimehigh.ly](http://alltimehigh.ly){:target="_blank"}  
+- [14.15 - bitgur.com](http://bitgur.com){:target="_blank"}  
+- [14.15 - bitinfocharts.com/cryptocurrency-exchange-rates](http://bitinfocharts.com/cryptocurrency-exchange-rates){:target="_blank"}  
+- [14.15 - coin.fyi](http://coin.fyi){:target="_blank"}  
+- [14.15 - coin360.io](http://coin360.io){:target="_blank"}  
+- [14.15 - coincap.io](http://coincap.io){:target="_blank"}  
+- [14.15 - coincheckup.com](http://coincheckup.com){:target="_blank"}  
+- [14.15 - coincodex.com](http://coincodex.com){:target="_blank"}  
+- [14.15 - coingecko.com](http://coingecko.com){:target="_blank"}  
+- [14.15 - coingossip.io](http://coingossip.io){:target="_blank"}  
+- [14.15 - coinlib.io](http://coinlib.io){:target="_blank"}  
+- [14.15 - coinmarketcap.com](http://coinmarketcap.com){:target="_blank"}  
+- [14.15 - cryptalert.com](http://cryptalert.com){:target="_blank"}  
+- [14.15 - cryptocoincharts.info](http://cryptocoincharts.info){:target="_blank"}  
+- [14.15 - cryptowat.ch](http://cryptowat.ch){:target="_blank"}  
+- [14.15 - nomics.com](http://nomics.com){:target="_blank"}  
+- [14.15 - onchainfx.com](http://onchainfx.com){:target="_blank"}  
+- [14.15 - solume.io](http://solume.io){:target="_blank"}  
+- [14.15 - worldcoinindex.com](http://worldcoinindex.com){:target="_blank"}  
+- [14.16 - coinmarketcal.com](http://coinmarketcal.com){:target="_blank"}  
+- [14.16 - coinscalendar.com](http://coinscalendar.com){:target="_blank"}  
+- [14.16 - meetup.com](http://meetup.com){:target="_blank"}  
+- [14.17 - medium.com/@cburniske](http://medium.com/@cburniske){:target="_blank"}  
+- [14.17 - elaineou.com](http://elaineou.com){:target="_blank"}  
+- [14.17 - bit.ly/2HBXJJg](http://bit.ly/2HBXJJg){:target="_blank"}  
+- [14.17 - unenumerated.blogspot.co.at](http://unenumerated.blogspot.co.at){:target="_blank"}  
+- [14.17 - prestonbyrne.com/blog](http://prestonbyrne.com/blog){:target="_blank"}  
+- [14.17 - thecryptocurrencyinvestor.com](http://thecryptocurrencyinvestor.com){:target="_blank"}  
+- [14.17 - tokeneconomy.co](http://tokeneconomy.co){:target="_blank"}  
+- [14.17 - medium.com/@tuurdemeester](http://medium.com/@tuurdemeester){:target="_blank"}  
+- [14.17 - unhashed.com](http://unhashed.com){:target="_blank"}  
+- [14.17 - woobull.com](http://woobull.com){:target="_blank"}  
+- [14.18 - bitwiseinvestments.com/indexes](http://bitwiseinvestments.com/indexes){:target="_blank"}  
+- [14.18 - bletchleyindexes.com](http://bletchleyindexes.com){:target="_blank"}  
+- [14.18 - mvis-indices.com/indices/digital-assets](http://mvis-indices.com/indices/digital-assets){:target="_blank"}  
+- [14.18 - thecrix.de](http://thecrix.de){:target="_blank"}  
+- [14.19 - crypto20.com](http://crypto20.com){:target="_blank"}  
+- [14.20 - bit.ly/2Ol8wa5](http://bit.ly/2Ol8wa5){:target="_blank"}  
+- [14.21 - testnet.bitmex.com](http://testnet.bitmex.com){:target="_blank"}  
+- [14.21 - coinmarketgame.com](http://coinmarketgame.com){:target="_blank"}  
 
 <a name="k16"></a>
 ## Kapitel 16: Zukunft von Kryptowährungen 
