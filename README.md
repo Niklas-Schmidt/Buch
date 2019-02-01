@@ -151,207 +151,107 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 <a name="k10"></a>
 ## Kapitel 10: Coins und Tokens 
 
-- [10.2 - coinmarketcap.com](http://coinmarketcap.com){:target="_blank"}
-
-- [10.2 - 0xproject.com](http://0xproject.com){:target="_blank"}
-
-- [10.2 - aelf.io](http://aelf.io){:target="_blank"}
-
-- [10.2 - aeternity.com](http://aeternity.com){:target="_blank"}
-
-- [10.2 - aion.network](http://aion.network){:target="_blank"}
-
-- [10.2 - ardorplatform.org](http://ardorplatform.org){:target="_blank"}
-
-- [10.2 - ark.io](http://ark.io){:target="_blank"}
-
-- [10.2 - augur.net](http://augur.net){:target="_blank"}
-
-- [10.2 - aurorachain.io](http://aurorachain.io){:target="_blank"}
-
-- [10.2 - bancor.network](http://bancor.network){:target="_blank"}
-
-- [10.2 - basicattentiontoken.org](http://basicattentiontoken.org){:target="_blank"}
-
-- [10.2 - binance.com/en](http://binance.com/en){:target="_blank"}
-
-- [10.2 - bitcoin.org](http://bitcoin.org){:target="_blank"}
-
-- [10.2 - bitcoincash.org](http://bitcoincash.org){:target="_blank"}
-
-- [10.2 - btcd.io](http://btcd.io){:target="_blank"}
-
-- [10.2 - bitcoingold.org](http://bitcoingold.org){:target="_blank"}
-
-- [10.2 - bitshares.org](http://bitshares.org){:target="_blank"}
-
-- [10.2 - boscoin.io](http://boscoin.io){:target="_blank"}
-
-- [10.2 - bytecoin.org](http://bytecoin.org){:target="_blank"}
-
-- [10.2 - bytom.io](http://bytom.io){:target="_blank"}
-
-- [10.2 - cardano.org](http://cardano.org){:target="_blank"}
-
-- [10.2 - chain.link](http://chain.link){:target="_blank"}
-
-- [10.2 - cryptonex.org](http://cryptonex.org){:target="_blank"}
-
-- [10.2 - cybermiles.io](http://cybermiles.io){:target="_blank"}
-
-- [10.2 - makerdao.com/dai](http://makerdao.com/dai){:target="_blank"}
-
-- [10.2 - dash.org](http://dash.org){:target="_blank"}
-
-- [10.2 - decentraland.org](http://decentraland.org){:target="_blank"}
-
-- [10.2 - decred.org](http://decred.org){:target="_blank"}
-
-- [10.2 - dentacoin.com](http://dentacoin.com){:target="_blank"}
-
-- [10.2 - digibyte.io](http://digibyte.io){:target="_blank"}
-
-- [10.2 - digix.global](http://digix.global){:target="_blank"}
-
-- [10.2 - dogecoin.com](http://dogecoin.com){:target="_blank"}
-
-- [10.2 - elastos.org](http://elastos.org){:target="_blank"}
-
-- [10.2 - electroneum.com](http://electroneum.com){:target="_blank"}
-
-- [10.2 - eos.io](http://eos.io){:target="_blank"}
-
-- [10.2 - ethereum.org](http://ethereum.org){:target="_blank"}
-
-- [10.2 - ethereumclassic.org](http://ethereumclassic.org){:target="_blank"}
-
-- [10.2 - factomprotocol.org](http://factomprotocol.org){:target="_blank"}
-
-- [10.2 - golem.network](http://golem.network){:target="_blank"}
-
-- [10.2 - gxs.gxb.io/en](http://gxs.gxb.io/en){:target="_blank"}
-
-- [10.2 - holochain.org](http://holochain.org){:target="_blank"}
-
-- [10.2 - horizen.global](http://horizen.global){:target="_blank"}
-
-- [10.2 - hbg.com](http://hbg.com){:target="_blank"}
-
-- [10.2 - h.cash](http://h.cash){:target="_blank"}
-
-- [10.2 - icon.foundation](http://icon.foundation){:target="_blank"}
-
-- [10.2 - insightchain.io](http://insightchain.io){:target="_blank"}
-
-- [10.2 - iost.io](http://iost.io){:target="_blank"}
-
-- [10.2 - iota.org](http://iota.org){:target="_blank"}
-
-- [10.2 - komodoplatform.com](http://komodoplatform.com){:target="_blank"}
-
-- [10.2 - kucoin.com](http://kucoin.com){:target="_blank"}
-
-- [10.2 - lisk.io](http://lisk.io){:target="_blank"}
-
-- [10.2 - litecoin.com](http://litecoin.com){:target="_blank"}
-
-- [10.2 - loopring.org](http://loopring.org){:target="_blank"}
-
-- [10.2 - maidsafe.net](http://maidsafe.net){:target="_blank"}
-
-- [10.2 - makerdao.com](http://makerdao.com){:target="_blank"}
-
-- [10.2 - crypto.com](http://crypto.com){:target="_blank"}
-
-- [10.2 - mvs.org](http://mvs.org){:target="_blank"}
-
-- [10.2 - mith.io](http://mith.io){:target="_blank"}
-
-- [10.2 - mixin.one](http://mixin.one){:target="_blank"}
-
-- [10.2 - moac.io](http://moac.io){:target="_blank"}
-
-- [10.2 - monacoin.org](http://monacoin.org){:target="_blank"}
-
-- [10.2 - getmonero.org](http://getmonero.org){:target="_blank"}
-
-- [10.2 - nano.org/en](http://nano.org/en){:target="_blank"}
-
-- [10.2 - nasdacoin.io](http://nasdacoin.io){:target="_blank"}
-
-- [10.2 - nem.io](http://nem.io){:target="_blank"}
-
-- [10.2 - neo.org](http://neo.org){:target="_blank"}
-
-- [10.2 - nexo.io](http://nexo.io){:target="_blank"}
-
-- [10.2 - odem.io](http://odem.io){:target="_blank"}
-
-- [10.2 - omg.omise.co](http://omg.omise.co){:target="_blank"}
-
-- [10.2 - ont.io](http://ont.io){:target="_blank"}
-
-- [10.2 - paxos.com/standard](http://paxos.com/standard){:target="_blank"}
-
-- [10.2 - polymath.network](http://polymath.network){:target="_blank"}
-
-- [10.2 - populous.world](http://populous.world){:target="_blank"}
-
-- [10.2 - pundix.com](http://pundix.com){:target="_blank"}
-
-- [10.2 - liquid.com](http://liquid.com){:target="_blank"}
-
-- [10.2 - qtum.org](http://qtum.org){:target="_blank"}
-
-- [10.2 - ravencoin.org](http://ravencoin.org){:target="_blank"}
-
-- [10.2 - reddcoin.com](http://reddcoin.com){:target="_blank"}
-
-- [10.2 - revain.org](http://revain.org){:target="_blank"}
-
-- [10.2 - sia.tech](http://sia.tech){:target="_blank"}
-
-- [10.2 - sirinlabs.com](http://sirinlabs.com){:target="_blank"}
-
-- [10.2 - status.im](http://status.im){:target="_blank"}
-
-- [10.2 - steem.com](http://steem.com){:target="_blank"}
-
-- [10.2 - stellar.org](http://stellar.org){:target="_blank"}
-
-- [10.2 - stratisplatform.com](http://stratisplatform.com){:target="_blank"}
-
-- [10.2 - tenx.tech](http://tenx.tech){:target="_blank"}
-
-- [10.2 - tether.to](http://tether.to){:target="_blank"}
-
-- [10.2 - tezos.com](http://tezos.com){:target="_blank"}
-
-- [10.2 - tron.network](http://tron.network){:target="_blank"}
-
-- [10.2 - trusttoken.com/trueusd](http://trusttoken.com/trueusd){:target="_blank"}
-
-- [10.2 - centre.io/usdc](http://centre.io/usdc){:target="_blank"}
-
-- [10.2 - vechain.org](http://vechain.org){:target="_blank"}
-
-- [10.2 - vergecurrency.com](http://vergecurrency.com){:target="_blank"}
-
-- [10.2 - waltonchain.org](http://waltonchain.org){:target="_blank"}
-
-- [10.2 - wanchain.org](http://wanchain.org){:target="_blank"}
-
-- [10.2 - wavesplatform.com](http://wavesplatform.com){:target="_blank"}
-
-- [10.2 - wax.io](http://wax.io){:target="_blank"}
-
-- [10.2 - ripple.com/xrp](http://ripple.com/xrp){:target="_blank"}
-
-- [10.2 - z.cash](http://z.cash){:target="_blank"}
-
-- [10.2 - zilliqa.com](http://zilliqa.com){:target="_blank"}
-
-- [10.3 - onchainfx.com/categories](http://onchainfx.com/categories){:target="_blank"}
+- [10.2 - coinmarketcap.com](http://coinmarketcap.com){:target="_blank"}  
+- [10.2 - 0xproject.com](http://0xproject.com){:target="_blank"}  
+- [10.2 - aelf.io](http://aelf.io){:target="_blank"}  
+- [10.2 - aeternity.com](http://aeternity.com){:target="_blank"}  
+- [10.2 - aion.network](http://aion.network){:target="_blank"}  
+- [10.2 - ardorplatform.org](http://ardorplatform.org){:target="_blank"}  
+- [10.2 - ark.io](http://ark.io){:target="_blank"}  
+- [10.2 - augur.net](http://augur.net){:target="_blank"}  
+- [10.2 - aurorachain.io](http://aurorachain.io){:target="_blank"}  
+- [10.2 - bancor.network](http://bancor.network){:target="_blank"}  
+- [10.2 - basicattentiontoken.org](http://basicattentiontoken.org){:target="_blank"}  
+- [10.2 - binance.com/en](http://binance.com/en){:target="_blank"}  
+- [10.2 - bitcoin.org](http://bitcoin.org){:target="_blank"}  
+- [10.2 - bitcoincash.org](http://bitcoincash.org){:target="_blank"}  
+- [10.2 - btcd.io](http://btcd.io){:target="_blank"}  
+- [10.2 - bitcoingold.org](http://bitcoingold.org){:target="_blank"}  
+- [10.2 - bitshares.org](http://bitshares.org){:target="_blank"}  
+- [10.2 - boscoin.io](http://boscoin.io){:target="_blank"}  
+- [10.2 - bytecoin.org](http://bytecoin.org){:target="_blank"}  
+- [10.2 - bytom.io](http://bytom.io){:target="_blank"}  
+- [10.2 - cardano.org](http://cardano.org){:target="_blank"}  
+- [10.2 - chain.link](http://chain.link){:target="_blank"}  
+- [10.2 - cryptonex.org](http://cryptonex.org){:target="_blank"}  
+- [10.2 - cybermiles.io](http://cybermiles.io){:target="_blank"}  
+- [10.2 - makerdao.com/dai](http://makerdao.com/dai){:target="_blank"}  
+- [10.2 - dash.org](http://dash.org){:target="_blank"}  
+- [10.2 - decentraland.org](http://decentraland.org){:target="_blank"}  
+- [10.2 - decred.org](http://decred.org){:target="_blank"}  
+- [10.2 - dentacoin.com](http://dentacoin.com){:target="_blank"}  
+- [10.2 - digibyte.io](http://digibyte.io){:target="_blank"}  
+- [10.2 - digix.global](http://digix.global){:target="_blank"}  
+- [10.2 - dogecoin.com](http://dogecoin.com){:target="_blank"}  
+- [10.2 - elastos.org](http://elastos.org){:target="_blank"}  
+- [10.2 - electroneum.com](http://electroneum.com){:target="_blank"}  
+- [10.2 - eos.io](http://eos.io){:target="_blank"}  
+- [10.2 - ethereum.org](http://ethereum.org){:target="_blank"}  
+- [10.2 - ethereumclassic.org](http://ethereumclassic.org){:target="_blank"}  
+- [10.2 - factomprotocol.org](http://factomprotocol.org){:target="_blank"}  
+- [10.2 - golem.network](http://golem.network){:target="_blank"}  
+- [10.2 - gxs.gxb.io/en](http://gxs.gxb.io/en){:target="_blank"}  
+- [10.2 - holochain.org](http://holochain.org){:target="_blank"}  
+- [10.2 - horizen.global](http://horizen.global){:target="_blank"}  
+- [10.2 - hbg.com](http://hbg.com){:target="_blank"}  
+- [10.2 - h.cash](http://h.cash){:target="_blank"}  
+- [10.2 - icon.foundation](http://icon.foundation){:target="_blank"}  
+- [10.2 - insightchain.io](http://insightchain.io){:target="_blank"}  
+- [10.2 - iost.io](http://iost.io){:target="_blank"}  
+- [10.2 - iota.org](http://iota.org){:target="_blank"}  
+- [10.2 - komodoplatform.com](http://komodoplatform.com){:target="_blank"}  
+- [10.2 - kucoin.com](http://kucoin.com){:target="_blank"}  
+- [10.2 - lisk.io](http://lisk.io){:target="_blank"}  
+- [10.2 - litecoin.com](http://litecoin.com){:target="_blank"}  
+- [10.2 - loopring.org](http://loopring.org){:target="_blank"}  
+- [10.2 - maidsafe.net](http://maidsafe.net){:target="_blank"}  
+- [10.2 - makerdao.com](http://makerdao.com){:target="_blank"}  
+- [10.2 - crypto.com](http://crypto.com){:target="_blank"}  
+- [10.2 - mvs.org](http://mvs.org){:target="_blank"}  
+- [10.2 - mith.io](http://mith.io){:target="_blank"}  
+- [10.2 - mixin.one](http://mixin.one){:target="_blank"}  
+- [10.2 - moac.io](http://moac.io){:target="_blank"}  
+- [10.2 - monacoin.org](http://monacoin.org){:target="_blank"}   
+- [10.2 - getmonero.org](http://getmonero.org){:target="_blank"}  
+- [10.2 - nano.org/en](http://nano.org/en){:target="_blank"}  
+- [10.2 - nasdacoin.io](http://nasdacoin.io){:target="_blank"}  
+- [10.2 - nem.io](http://nem.io){:target="_blank"}  
+- [10.2 - neo.org](http://neo.org){:target="_blank"}  
+- [10.2 - nexo.io](http://nexo.io){:target="_blank"}  
+- [10.2 - odem.io](http://odem.io){:target="_blank"}  
+- [10.2 - omg.omise.co](http://omg.omise.co){:target="_blank"}  
+- [10.2 - ont.io](http://ont.io){:target="_blank"}  
+- [10.2 - paxos.com/standard](http://paxos.com/standard){:target="_blank"}  
+- [10.2 - polymath.network](http://polymath.network){:target="_blank"}  
+- [10.2 - populous.world](http://populous.world){:target="_blank"}  
+- [10.2 - pundix.com](http://pundix.com){:target="_blank"}  
+- [10.2 - liquid.com](http://liquid.com){:target="_blank"}  
+- [10.2 - qtum.org](http://qtum.org){:target="_blank"}  
+- [10.2 - ravencoin.org](http://ravencoin.org){:target="_blank"}  
+- [10.2 - reddcoin.com](http://reddcoin.com){:target="_blank"}  
+- [10.2 - revain.org](http://revain.org){:target="_blank"}  
+- [10.2 - sia.tech](http://sia.tech){:target="_blank"}  
+- [10.2 - sirinlabs.com](http://sirinlabs.com){:target="_blank"}  
+- [10.2 - status.im](http://status.im){:target="_blank"}  
+- [10.2 - steem.com](http://steem.com){:target="_blank"}  
+- [10.2 - stellar.org](http://stellar.org){:target="_blank"}  
+- [10.2 - stratisplatform.com](http://stratisplatform.com){:target="_blank"}  
+- [10.2 - tenx.tech](http://tenx.tech){:target="_blank"}  
+- [10.2 - tether.to](http://tether.to){:target="_blank"}  
+- [10.2 - tezos.com](http://tezos.com){:target="_blank"}  
+- [10.2 - tron.network](http://tron.network){:target="_blank"}  
+- [10.2 - trusttoken.com/trueusd](http://trusttoken.com/trueusd){:target="_blank"}  
+- [10.2 - centre.io/usdc](http://centre.io/usdc){:target="_blank"}  
+- [10.2 - vechain.org](http://vechain.org){:target="_blank"}  
+- [10.2 - vergecurrency.com](http://vergecurrency.com){:target="_blank"}  
+- [10.2 - waltonchain.org](http://waltonchain.org){:target="_blank"}  
+- [10.2 - wanchain.org](http://wanchain.org){:target="_blank"}  
+- [10.2 - wavesplatform.com](http://wavesplatform.com){:target="_blank"}  
+- [10.2 - wax.io](http://wax.io){:target="_blank"}  
+- [10.2 - ripple.com/xrp](http://ripple.com/xrp){:target="_blank"}  
+- [10.2 - z.cash](http://z.cash){:target="_blank"}  
+- [10.2 - zilliqa.com](http://zilliqa.com){:target="_blank"}  
+- [10.3 - onchainfx.com/categories](http://onchainfx.com/categories){:target="_blank"}  
 
 <a name="k11"></a>
 ## Kapitel 11: Wallets 
