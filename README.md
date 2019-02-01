@@ -8,167 +8,167 @@ Take me to [pookie](#pookie)
  
 [create an anchor](#anchors-in-markdown)
 
-[ ] [2.1 - bitcoin.org/bitcoin.pdf](http://bitcoin.org/bitcoin.pdf){:target="_blank"}
+- [2.1 - bitcoin.org/bitcoin.pdf](http://bitcoin.org/bitcoin.pdf){:target="_blank"}
 
 - [2.5 - bit.ly/2qaIlZT](http://bit.ly/2qaIlZT){:target="_blank"}
 
 - [2.5 - bit.ly/2CBNxxv](http://bit.ly/2CBNxxv){:target="_blank"}
 
-[2.5 - bit.ly/2D4LvHd](http://bit.ly/2D4LvHd){:target="_blank"}
+- [2.5 - bit.ly/2D4LvHd](http://bit.ly/2D4LvHd){:target="_blank"}
 
-[2.5 - bit.ly/2AtqROB](http://bit.ly/2AtqROB){:target="_blank"}
+- [2.5 - bit.ly/2AtqROB](http://bit.ly/2AtqROB){:target="_blank"}
 
-[2.6 - bitcoin.org](http://bitcoin.org){:target="_blank"}
+- [2.6 - bitcoin.org](http://bitcoin.org){:target="_blank"}
 
-[2.8 - shop.wikileaks.org/donate](http://shop.wikileaks.org){:target="_blank"}
+- [2.8 - shop.wikileaks.org/donate](http://shop.wikileaks.org){:target="_blank"}
 
-[2.8 - mtgox.com](http://mtgox.com){:target="_blank"}
+- [2.8 - mtgox.com](http://mtgox.com){:target="_blank"}
 
-[2.9 - bit.ly/2O7U1WS](http://bit.ly/2O7U1WS){:target="_blank"}
+- [2.9 - bit.ly/2O7U1WS](http://bit.ly/2O7U1WS){:target="_blank"}
 
 ## Kapitel 3: Vergleich von Bitcoins mit konventionellem Geld <a name="pookie"></a>
 
-[3.15 - bit.ly/2qbn2HD](http://bit.ly/2qbn2HD){:target="_blank"}
+- [3.15 - bit.ly/2qbn2HD](http://bit.ly/2qbn2HD){:target="_blank"}
 
 ## Kapitel 4: Erwerb und Verlust von Bitcoins
 
-[4.2 - localbitcoins.com](http://localbitcoins.com){:target="_blank"}
+- [4.2 - localbitcoins.com](http://localbitcoins.com){:target="_blank"}
 
-[4.2 - hodlhodl.com](http://hodlhodl.com){:target="_blank"}
+- [4.2 - hodlhodl.com](http://hodlhodl.com){:target="_blank"}
 
-[4.3 - coinatmradar.com](http://coinatmradar.com){:target="_blank"}
+- [4.3 - coinatmradar.com](http://coinatmradar.com){:target="_blank"}
 
-[4.3 - generalbytes.com](http://generalbytes.com){:target="_blank"}
+- [4.3 - generalbytes.com](http://generalbytes.com){:target="_blank"}
 
-[4.3 - bit.ly/2ET5oD0](http://bit.ly/2ET5oD0){:target="_blank"}
+- [4.3 - bit.ly/2ET5oD0](http://bit.ly/2ET5oD0){:target="_blank"}
 
-[4.6 - bit.ly/2uMtHLe](http://bit.ly/2uMtHLe){:target="_blank"}
+- [4.6 - bit.ly/2uMtHLe](http://bit.ly/2uMtHLe){:target="_blank"}
 
-[4.10 - bitcoinbon.at](http://bitcoinbon.at){:target="_blank"} 
+- [4.10 - bitcoinbon.at](http://bitcoinbon.at){:target="_blank"} 
 
-[4.10 - bitpanda.com/en/togo](http://bitpanda.com/en/togo){:target="_blank"}
+- [4.10 - bitpanda.com/en/togo](http://bitpanda.com/en/togo){:target="_blank"}
 
 ## Kapitel 5: Blockchain
 
-[5.9 - bit.ly/2EKJCkw](http://bit.ly/2EKJCkw){:target="_blank"}
+- [5.9 - bit.ly/2EKJCkw](http://bit.ly/2EKJCkw){:target="_blank"}
 
-[5.12 - blockchain.info](http://blockchain.info){:target="_blank"}
+- [5.12 - blockchain.info](http://blockchain.info){:target="_blank"}
 
-[5.12 - etherscan.io](http://etherscan.io){:target="_blank"}
+- [5.12 - etherscan.io](http://etherscan.io){:target="_blank"}
 
-[5.12 - explorer.dash.org](http://explorer.dash.org){:target="_blank"}
+- [5.12 - explorer.dash.org](http://explorer.dash.org){:target="_blank"}
 
-[5.12 - bit.ly/2R9ClMn](http://bit.ly/2R9ClMn){:target="_blank"}
+- [5.12 - bit.ly/2R9ClMn](http://bit.ly/2R9ClMn){:target="_blank"}
 
-[5.13 - chainalysis.com](http://chainalysis.com){:target="_blank"}
+- [5.13 - chainalysis.com](http://chainalysis.com){:target="_blank"}
 
-[5.13 - github.com/citp/BlockSci](http://github.com/citp/BlockSci){:target="_blank"}
+- [5.13 - github.com/citp/BlockSci](http://github.com/citp/BlockSci){:target="_blank"}
 
-[5.15 - coinmarketcap.com](http://coinmarketcap.com){:target="_blank"}
+- [5.15 - coinmarketcap.com](http://coinmarketcap.com){:target="_blank"}
 
-[5.15 - blockchain.com/btc/address](http://blockchain.com/btc/address){:target="_blank"}
+- [5.15 - blockchain.com/btc/address](http://blockchain.com/btc/address){:target="_blank"}
 
-[5.15 - read.bi/2OLcHRq](http://read.bi/2OLcHRq){:target="_blank"}
+- [5.15 - read.bi/2OLcHRq](http://read.bi/2OLcHRq){:target="_blank"}
 
-[5.19 - bit.ly/2qUbitk](http://bit.ly/2qUbitk){:target="_blank"}
+- [5.19 - bit.ly/2qUbitk](http://bit.ly/2qUbitk){:target="_blank"}
 
-[5.24 - r3.com](http://r3.com){:target="_blank"}
+- [5.24 - r3.com](http://r3.com){:target="_blank"}
 
-[5.25 - bit.ly/2IKJ2Vy](http://bit.ly/2IKJ2Vy){:target="_blank"}
+- [5.25 - bit.ly/2IKJ2Vy](http://bit.ly/2IKJ2Vy){:target="_blank"}
 
 ## Kapitel 6: Mining
 
-[6.13 - bit.ly/2JeDnE8](http://bit.ly/2JeDnE8){:target="_blank"}
+- [6.13 - bit.ly/2JeDnE8](http://bit.ly/2JeDnE8){:target="_blank"}
 
-[6.16 - bit.ly/2SfbeRL](http://bit.ly/2SfbeRL){:target="_blank"} 
+- [6.16 - bit.ly/2SfbeRL](http://bit.ly/2SfbeRL){:target="_blank"} 
 
-[6.16 - bit.ly/2SN4CJz](http://bit.ly/2SN4CJz){:target="_blank"}
+- [6.16 - bit.ly/2SN4CJz](http://bit.ly/2SN4CJz){:target="_blank"}
 
-[6.17 - bit.ly/2j9agXg](http://bit.ly/2j9agXg){:target="_blank"}
+- [6.17 - bit.ly/2j9agXg](http://bit.ly/2j9agXg){:target="_blank"}
 
-[6.25 - bitmain.com](http://bitmain.com){:target="_blank"}
+- [6.25 - bitmain.com](http://bitmain.com){:target="_blank"}
 
-[6.25 - bit.ly/2ytVKRo](http://bit.ly/2ytVKRo){:target="_blank"}
+- [6.25 - bit.ly/2ytVKRo](http://bit.ly/2ytVKRo){:target="_blank"}
 
-[6.26 - whattomine.com](http://whattomine.com){:target="_blank"}
+- [6.26 - whattomine.com](http://whattomine.com){:target="_blank"}
 
-[6.26 - coinwarz.com](http://coinwarz.com){:target="_blank"}
+- [6.26 - coinwarz.com](http://coinwarz.com){:target="_blank"}
 
-[6.30 - genesis-mining.com](http://genesis-mining.com){:target="_blank"}
+- [6.30 - genesis-mining.com](http://genesis-mining.com){:target="_blank"}
 
-[6.31 - coinhive.com](http://coinhive.com){:target="_blank"}
+- [6.31 - coinhive.com](http://coinhive.com){:target="_blank"}
 
-[6.32 - bit.ly/2ibmh0g](http://bit.ly/2ibmh0g){:target="_blank"}
+- [6.32 - bit.ly/2ibmh0g](http://bit.ly/2ibmh0g){:target="_blank"}
 
-[6.32 - bit.ly/2PPzOXT](http://bit.ly/2PPzOXT){:target="_blank"}
+- [6.32 - bit.ly/2PPzOXT](http://bit.ly/2PPzOXT){:target="_blank"}
 
 ## Kapitel 7: Altcoins
 
-[7.1 - build-a-co.in](http://build-a-co.in){:target="_blank"}
+- [7.1 - build-a-co.in](http://build-a-co.in){:target="_blank"}
 
-[7.3 - bit.ly/2CExhM1](http://bit.ly/2CExhM1){:target="_blank"} 
+- [7.3 - bit.ly/2CExhM1](http://bit.ly/2CExhM1){:target="_blank"} 
 
-[7.3 - bit.ly/2CAWTcV](http://bit.ly/2CAWTcV){:target="_blank"}     
+- [7.3 - bit.ly/2CAWTcV](http://bit.ly/2CAWTcV){:target="_blank"}     
                           
-[7.13 - stable.report](http://stable.report){:target="_blank"}
+- [7.13 - stable.report](http://stable.report){:target="_blank"}
 
 ## Kapitel 8: Ethereum
 
-[8.3 - bit.ly/2i2IRpB](http://bit.ly/2i2IRpB){:target="_blank"}
+- [8.3 - bit.ly/2i2IRpB](http://bit.ly/2i2IRpB){:target="_blank"}
 
-[8.4 - kickstarter.com](http://kickstarter.com){:target="_blank"}
+- [8.4 - kickstarter.com](http://kickstarter.com){:target="_blank"}
 
-[8.4 - indiegogo.com](http://indiegogo.com){:target="_blank"}
+- [8.4 - indiegogo.com](http://indiegogo.com){:target="_blank"}
 
-[8.4 - satoshidice.com](http://satoshidice.com){:target="_blank"}
+- [8.4 - satoshidice.com](http://satoshidice.com){:target="_blank"}
 
-[8.4 - flightstats.com](http://flightstats.com){:target="_blank"}
+- [8.4 - flightstats.com](http://flightstats.com){:target="_blank"}
 
-[8.6 - metamask.io](http://metamask.io){:target="_blank"}
+- [8.6 - metamask.io](http://metamask.io){:target="_blank"}
 
-[8.7 - airbnb.com](http://airbnb.com){:target="_blank"}
+- [8.7 - airbnb.com](http://airbnb.com){:target="_blank"}
 
-[8.7 - uber.com](http://uber.com){:target="_blank"}
+- [8.7 - uber.com](http://uber.com){:target="_blank"}
 
-[8.11 - ethgasstation.info](http://ethgasstation.info){:target="_blank"}
+- [8.11 - ethgasstation.info](http://ethgasstation.info){:target="_blank"}
 
-[8.12 - dappradar.com](http://dappradar.com){:target="_blank"}
+- [8.12 - dappradar.com](http://dappradar.com){:target="_blank"}
 
-[8.12 - stateofthedapps.com](http://stateofthedapps.com){:target="_blank"}
+- [8.12 - stateofthedapps.com](http://stateofthedapps.com){:target="_blank"}
 
-[8.14 - bit.ly/1UwmOVH](http://bit.ly/1UwmOVH){:target="_blank"}
+- [8.14 - bit.ly/1UwmOVH](http://bit.ly/1UwmOVH){:target="_blank"}
 
-[8.14 - bit.ly/2uySAZs](http://bit.ly/2uySAZs){:target="_blank"}
+- [8.14 - bit.ly/2uySAZs](http://bit.ly/2uySAZs){:target="_blank"}
 
-[8.18 - isiterc20.com](http://isiterc20.com){:target="_blank"}
+- [8.18 - isiterc20.com](http://isiterc20.com){:target="_blank"}
 
-[8.19 - cryptokitties.co](http://cryptokitties.co){:target="_blank"}
+- [8.19 - cryptokitties.co](http://cryptokitties.co){:target="_blank"}
 
 ## Kapitel 9: ICOs
 
-[9.1 - bit.ly/2EGhfnC](http://bit.ly/2EGhfnC){:target="_blank"}
+- [9.1 - bit.ly/2EGhfnC](http://bit.ly/2EGhfnC){:target="_blank"}
 
-[9.2 - bit.ly/2BWWDFs](http://bit.ly/2BWWDFs){:target="_blank"}
+- [9.2 - bit.ly/2BWWDFs](http://bit.ly/2BWWDFs){:target="_blank"}
 
-[9.2 - icodata.io/stats/2018](http://icodata.io/stats/2018){:target="_blank"}
+- [9.2 - icodata.io/stats/2018](http://icodata.io/stats/2018){:target="_blank"}
 
-[9.2 - bit.ly/2D34ORa](http://bit.ly/2D34ORa){:target="_blank"}
+- [9.2 - bit.ly/2D34ORa](http://bit.ly/2D34ORa){:target="_blank"}
 
-[9.3 - www.herosphere.gg](http:/ www.herosphere.gg){:target="_blank"}
+- [9.3 - www.herosphere.gg](http:/ www.herosphere.gg){:target="_blank"}
 
-[9.3 - www.hydrominer.org](http://www.hydrominer.org){:target="_blank"}
+- [9.3 - www.hydrominer.org](http://www.hydrominer.org){:target="_blank"}
 
-[9.3 - pantos.io](http://pantos.io){:target="_blank"}     
+- [9.3 - pantos.io](http://pantos.io){:target="_blank"}     
        
-[9.4 - etherscan.io/tokens](http://etherscan.io/tokens){:target="_blank"}
+- [9.4 - etherscan.io/tokens](http://etherscan.io/tokens){:target="_blank"}
 
-[9.6 - bit.ly/2KT33X3](http://bit.ly/2KT33X3){:target="_blank"}
+- [9.6 - bit.ly/2KT33X3](http://bit.ly/2KT33X3){:target="_blank"}
 
-[9.7 – coinschedule.com](http://coinschedule.com){:target="_blank"}
+- [9.7 – coinschedule.com](http://coinschedule.com){:target="_blank"}
 
-[9.7 – icoalert.com](http://icoalert.com){:target="_blank"}
+- [9.7 – icoalert.com](http://icoalert.com){:target="_blank"}
 
-[9.7 – icobench.com](http://icobench.com){:target="_blank"}
+- [9.7 – icobench.com](http://icobench.com){:target="_blank"}
 
 [9.7 – icodrops.com](http://icodrops.com){:target="_blank"}
 
