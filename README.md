@@ -2,7 +2,7 @@
 
 Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch "Kryptowährungen und Blockchains". Ich hoffe, das Buch erfüllt Ihre Erwartungen. Zum einfacheren Öffnen in einem Browser finden Sie hier die in dem Buch abgedruckten Links. 
 
-2.	Historische Entwicklung
+Kapitel 2.	Historische Entwicklung
 
 [2.1 - bitcoin.org/bitcoin.pdf](http://bitcoin.org/bitcoin.pdf){:target="_blank"}
 
