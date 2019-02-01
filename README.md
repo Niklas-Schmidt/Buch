@@ -47,7 +47,8 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 
 
 
-## Kapitel 2: Historische Entwicklung <a name="k2"></a>
+<a name="k2"></a>
+## Kapitel 2: Historische Entwicklung 
  
 - [2.1 - bitcoin.org/bitcoin.pdf](http://bitcoin.org/bitcoin.pdf){:target="_blank"}
 
@@ -191,7 +192,8 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 
 - [8.19 - cryptokitties.co](http://cryptokitties.co){:target="_blank"}
 
-## Kapitel 9: ICOs <a name="k9"></a>
+<a name="k9"></a>
+## Kapitel 9: ICOs 
 
 - [9.1 - bit.ly/2EGhfnC](http://bit.ly/2EGhfnC){:target="_blank"}
 
@@ -239,7 +241,8 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 
 - [9.13 - bit.ly/2J7OXDv](http://bit.ly/2J7OXDv){:target="_blank"}
 
-## Kapitel 10: Coins und Tokens <a name="k10"></a>
+<a name="k10"></a>
+## Kapitel 10: Coins und Tokens 
 
 - [10.2 - coinmarketcap.com](http://coinmarketcap.com){:target="_blank"}
 
@@ -443,7 +446,8 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 
 - [10.3 - onchainfx.com/categories](http://onchainfx.com/categories){:target="_blank"}
 
-## Kapitel 11: Wallets <a name="k11"></a>
+<a name="k11"></a>
+## Kapitel 11: Wallets 
 
 - [11.7 - blockchain.com/wallet](http://blockchain.com/wallet){:target="_blank"}
 
@@ -497,7 +501,8 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 
 - [11.18 - trezor.io](http://trezor.io){:target="_blank"}
 
-## Kapitel 12: Exchanges <a name="k12"></a>
+<a name="k12"></a>
+## Kapitel 12: Exchanges 
 
 - [12.2 - coinmarketcap.com/rankings/exchanges](http://coinmarketcap.com/rankings/exchanges){:target="_blank"}
 
@@ -527,7 +532,8 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 
 - [12.13 - deribit.com](http://deribit.com){:target="_blank"}
 
-## Kapitel 14: Investieren in Kryptowährungen <a name="k14"></a>
+<a name="k14"></a>
+## Kapitel 14: Investieren in Kryptowährungen 
 
 - [14.2 - bit.ly/2OILjDB](http://bit.ly/2OILjDB){:target="_blank"}
 
@@ -657,7 +663,8 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 
 - [14.21 - coinmarketgame.com](http://coinmarketgame.com){:target="_blank"}
 
-## Kapitel 16: Zukunft von Kryptowährungen <a name="k16"></a>
+<a name="k16"></a>
+## Kapitel 16: Zukunft von Kryptowährungen 
 
 - [16.1 - bit.ly/2CExhM1](http://bit.ly/2CExhM1){:target="_blank"}
 
@@ -685,7 +692,8 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 
 - [16.11 - bit.ly/2D3hB69](http://bit.ly/2D3hB69){:target="_blank"}
 
-## Kapitel 17: Disruption durch Blockchain-Technologie <a name="k17"></a>
+<a name="k17"></a>
+## Kapitel 17: Disruption durch Blockchain-Technologie 
 
 - [17.4 - bit.ly/1KlN8ZR](http://bit.ly/1KlN8ZR){:target="_blank"}
 
@@ -743,11 +751,13 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 
 - [17.12 - blockchainhub.net](http://blockchainhub.net){:target="_blank"}
 
-## Kapitel 19: Kryptowährungen im Bilanzrecht <a name="k19"></a>
+<a name="k19"></a>
+## Kapitel 19: Kryptowährungen im Bilanzrecht 
 
 - [19.7 - coinmarketcap.com](http://coinmarketcap.com){:target="_blank"}
 
-## Kapitel 20: Kryptowährungen im Steuerrecht <a name="k20"></a>
+<a name="k20"></a>
+## Kapitel 20: Kryptowährungen im Steuerrecht 
 
 - [20.1. - bit.ly/2E5eGdT](http://bit.ly/2E5eGdT){:target="_blank"}
 
@@ -763,19 +773,23 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 
 - [20.47 - blockpit.io](http://blockpit.io){:target="_blank"}
 
-## Kapitel 21: Kryptowährungen im Gesellschaftsrecht <a name="k21"></a>
+<a name="k21"></a>
+## Kapitel 21: Kryptowährungen im Gesellschaftsrecht 
 
 - [21.1 - bit.ly/2OWNdMp](http://bit.ly/2OWNdMp){:target="_blank"}
 
-## Kapitel 23: Kryptowährungen im Geldwäscherecht <a name="k23"></a>
+<a name="k23"></a>
+## Kapitel 23: Kryptowährungen im Geldwäscherecht 
 
 - [23.1 - bit.ly/1sYPzPM](http://bit.ly/1sYPzPM){:target="_blank"}
 
-## Kapitel 24: Kryptowährungen im Gewerberecht <a name="k24"></a>
+<a name="k24"></a>
+## Kapitel 24: Kryptowährungen im Gewerberecht 
 
 - [24.4 - bit.ly/2qIiEjB](http://bit.ly/2qIiEjB){:target="_blank"}
 
-## Kapitel 26: Kryptowährungen im Aufsichtsrecht <a name="k26"></a>
+<a name="k26"></a>
+## Kapitel 26: Kryptowährungen im Aufsichtsrecht 
 
 - [26.2 - bit.ly/2G4hNnV](http://bit.ly/2G4hNnV){:target="_blank"}
 
