@@ -573,90 +573,51 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 <a name="k16"></a>
 ## Kapitel 16: Zukunft von Kryptowährungen 
 
-- [16.1 - bit.ly/2CExhM1](http://bit.ly/2CExhM1){:target="_blank"}
-
-- [16.2 - scambitcoin.com](http://scambitcoin.com){:target="_blank"}
-
-- [16.2 - badbitcoin.org/thebadlist/index.htm](http://badbitcoin.org/thebadlist/index.htm){:target="_blank"}
-
-- [16.3 - bit.ly/2Q0UKLz](http://bit.ly/2Q0UKLz){:target="_blank"}
-
+- [16.1 - bit.ly/2CExhM1](http://bit.ly/2CExhM1){:target="_blank"}  
+- [16.2 - scambitcoin.com](http://scambitcoin.com){:target="_blank"}  
+- [16.2 - badbitcoin.org/thebadlist/index.htm](http://badbitcoin.org/thebadlist/index.htm){:target="_blank"}  
+- [16.3 - bit.ly/2Q0UKLz](http://bit.ly/2Q0UKLz){:target="_blank"}  
 - [16.4 - bit.ly/2vP8mmZ](http://bit.ly/2vP8mmZ){:target="_blank"}   
-
-- [16.5 - bit.ly/2ArVT9e](http://bit.ly/2ArVT9e){:target="_blank"}
-
-- [16.6 - bit.ly/2mybpJd](http://bit.ly/2mybpJd){:target="_blank"}
-
-- [16.10 - bit.ly/2AFvbKx](http://bit.ly/2AFvbKx){:target="_blank"}
-
-- [16.11 - bit.ly/2Po1Wny](http://bit.ly/2Po1Wny){:target="_blank"}
-
-- [16.11 - bit.ly/2ySyeQD](http://bit.ly/2ySyeQD){:target="_blank"}
-
-- [16.11 – nicehash.com](http://nicehash.com){:target="_blank"}
-
-- [16.11 – miningrigrentals.com](http://miningrigrentals.com){:target="_blank"}
-
-- [16.11 - bit.ly/2D3hB69](http://bit.ly/2D3hB69){:target="_blank"}
+- [16.5 - bit.ly/2ArVT9e](http://bit.ly/2ArVT9e){:target="_blank"}  
+- [16.6 - bit.ly/2mybpJd](http://bit.ly/2mybpJd){:target="_blank"}  
+- [16.10 - bit.ly/2AFvbKx](http://bit.ly/2AFvbKx){:target="_blank"}  
+- [16.11 - bit.ly/2Po1Wny](http://bit.ly/2Po1Wny){:target="_blank"}  
+- [16.11 - bit.ly/2ySyeQD](http://bit.ly/2ySyeQD){:target="_blank"}  
+- [16.11 – nicehash.com](http://nicehash.com){:target="_blank"}  
+- [16.11 – miningrigrentals.com](http://miningrigrentals.com){:target="_blank"}  
+- [16.11 - bit.ly/2D3hB69](http://bit.ly/2D3hB69){:target="_blank"}  
 
 <a name="k17"></a>
 ## Kapitel 17: Disruption durch Blockchain-Technologie 
 
-- [17.4 - bit.ly/1KlN8ZR](http://bit.ly/1KlN8ZR){:target="_blank"}
-
+- [17.4 - bit.ly/1KlN8ZR](http://bit.ly/1KlN8ZR){:target="_blank"}  
 - [17.5 - bit.ly/2P7Yudt](http://bit.ly/2P7Yudt){:target="_blank"}   
-
-- [17.5 - bit.ly/2RuYKEh](http://bit.ly/2RuYKEh){:target="_blank"}
-
-- [17.5 - bit.ly/2Uk8oej](http://bit.ly/2Uk8oej){:target="_blank"}
-
-- [17.5 - bit.ly/2OjEwvi](http://bit.ly/2OjEwvi){:target="_blank"}
-
-- [17.7 - tripadvisor.com](http://tripadvisor.com){:target="_blank"}
-
-- [17.7 - facebook.com](http://facebook.com){:target="_blank"}
-
-- [17.7 - youtube.com](http://youtube.com){:target="_blank"}
-
-- [17.7 - instagram.com](http://instagram.com){:target="_blank"}
-
-- [17.7 - twitter.com](http://twitter.com){:target="_blank"}
-
-- [17.7 - reddit.com](http://reddit.com){:target="_blank"}
-
-- [17.7 - tumblr.com](http://tumblr.com){:target="_blank"}
-
-- [17.7 - mail.google.com](http://mail.google.com){:target="_blank"}
-
-- [17.7 - bing.com](http://bing.com){:target="_blank"}
-
-- [17.7 - steemit.com](http://steemit.com){:target="_blank"}
-
-- [17.7 - basicattentiontoken.org](http://basicattentiontoken.org){:target="_blank"}
-
-- [17.8 - bit.ly/25hWemd](http://bit.ly/25hWemd){:target="_blank"}
-
-- [17.8 - airbnb.com](http://airbnb.com){:target="_blank"}
-
-- [17.8 - uber.com](http://uber.com){:target="_blank"}
-
-- [17.8 - amazon.com](http://amazon.com){:target="_blank"}
-
-- [17.8 - ebay.com](http://ebay.com){:target="_blank"}
-
-- [17.10 - bloom.bg/2BsDCLg](http://bloom.bg/2BsDCLg){:target="_blank"}
-
+- [17.5 - bit.ly/2RuYKEh](http://bit.ly/2RuYKEh){:target="_blank"}  
+- [17.5 - bit.ly/2Uk8oej](http://bit.ly/2Uk8oej){:target="_blank"}  
+- [17.5 - bit.ly/2OjEwvi](http://bit.ly/2OjEwvi){:target="_blank"}  
+- [17.7 - tripadvisor.com](http://tripadvisor.com){:target="_blank"}  
+- [17.7 - facebook.com](http://facebook.com){:target="_blank"}  
+- [17.7 - youtube.com](http://youtube.com){:target="_blank"}  
+- [17.7 - instagram.com](http://instagram.com){:target="_blank"}  
+- [17.7 - twitter.com](http://twitter.com){:target="_blank"}  
+- [17.7 - reddit.com](http://reddit.com){:target="_blank"}  
+- [17.7 - tumblr.com](http://tumblr.com){:target="_blank"}  
+- [17.7 - mail.google.com](http://mail.google.com){:target="_blank"}  
+- [17.7 - bing.com](http://bing.com){:target="_blank"}  
+- [17.7 - steemit.com](http://steemit.com){:target="_blank"}  
+- [17.7 - basicattentiontoken.org](http://basicattentiontoken.org){:target="_blank"}  
+- [17.8 - bit.ly/25hWemd](http://bit.ly/25hWemd){:target="_blank"}  
+- [17.8 - airbnb.com](http://airbnb.com){:target="_blank"}  
+- [17.8 - uber.com](http://uber.com){:target="_blank"}  
+- [17.8 - amazon.com](http://amazon.com){:target="_blank"}  
+- [17.8 - ebay.com](http://ebay.com){:target="_blank"}  
+- [17.10 - bloom.bg/2BsDCLg](http://bloom.bg/2BsDCLg){:target="_blank"}  
 - [17.10 - gtnr.it/2xHB19I](http://gtnr.it/2xHB19I){:target="_blank"}   
-
-- [17.10 - mck.co/2At0ng5](http://mck.co/2At0ng5){:target="_blank"}
-
-- [17.11 - bit.ly/2GFw32m](http://bit.ly/2GFw32m){:target="_blank"}
-
-- [17.12 - daaa.at](http://daaa.at){:target="_blank"}
-
-- [17.12 - bundesblock.de](http://bundesblock.de){:target="_blank"}
-
-- [17.12 - blockchainhub.net](http://blockchainhub.net){:target="_blank"}
+- [17.10 - mck.co/2At0ng5](http://mck.co/2At0ng5){:target="_blank"}  
+- [17.11 - bit.ly/2GFw32m](http://bit.ly/2GFw32m){:target="_blank"}  
+- [17.12 - daaa.at](http://daaa.at){:target="_blank"}  
+- [17.12 - bundesblock.de](http://bundesblock.de){:target="_blank"}  
+- [17.12 - blockchainhub.net](http://blockchainhub.net){:target="_blank"}  
 
 <a name="k19"></a>
 ## Kapitel 19: Kryptowährungen im Bilanzrecht 
@@ -666,19 +627,13 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 <a name="k20"></a>
 ## Kapitel 20: Kryptowährungen im Steuerrecht 
 
-- [20.1. - bit.ly/2E5eGdT](http://bit.ly/2E5eGdT){:target="_blank"}
-
-- [20.19 - coinmarketcap.com](http://coinmarketcap.com){:target="_blank"}
-
-- [20.19 - bit.ly/1RH9CHk](http://bit.ly/1RH9CHk){:target="_blank"}
-
-- [20.27 - bitdice.me](http://bitdice.me){:target="_blank"}
-
-- [20.27 - fizzy.axa](http://fizzy.axa){:target="_blank"}
-
-- [20.27 - augur.net](http://augur.net){:target="_blank"}
-
-- [20.47 - blockpit.io](http://blockpit.io){:target="_blank"}
+- [20.1. - bit.ly/2E5eGdT](http://bit.ly/2E5eGdT){:target="_blank"}  
+- [20.19 - coinmarketcap.com](http://coinmarketcap.com){:target="_blank"}  
+- [20.19 - bit.ly/1RH9CHk](http://bit.ly/1RH9CHk){:target="_blank"}  
+- [20.27 - bitdice.me](http://bitdice.me){:target="_blank"}  
+- [20.27 - fizzy.axa](http://fizzy.axa){:target="_blank"}  
+- [20.27 - augur.net](http://augur.net){:target="_blank"}  
+- [20.47 - blockpit.io](http://blockpit.io){:target="_blank"}  
 
 <a name="k21"></a>
 ## Kapitel 21: Kryptowährungen im Gesellschaftsrecht 
@@ -698,25 +653,15 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 <a name="k26"></a>
 ## Kapitel 26: Kryptowährungen im Aufsichtsrecht 
 
-- [26.2 - bit.ly/2G4hNnV](http://bit.ly/2G4hNnV){:target="_blank"}
-
-- [26.3 - bit.ly/2qIiEjB](http://bit.ly/2qIiEjB){:target="_blank"}
-
-- [26.4 - bit.ly/2QcD2rL](http://bit.ly/2QcD2rL){:target="_blank"}
-
-- [26.5 - bit.ly/2QcD2rL](http://bit.ly/2QcD2rL){:target="_blank"}
-
-- [26.6 - bit.ly/2FvmLd2](http://bit.ly/2FvmLd2){:target="_blank"}
-
-- [26.10 - bit.ly/2zKgANa](http://bit.ly/2zKgANa){:target="_blank"}
-
-- [26.11 – bit.ly/2G4hNnV](http://bit.ly/2G4hNnV){:target="_blank"}
-
-- [26.11 – bit.ly/2G4hNnV](http://bit.ly/2G4hNnV){:target="_blank"}
-
-- [26.12 – bit.ly/2G4hNnV](http://bit.ly/2G4hNnV){:target="_blank"}
-
-- [26.12 – bit.ly/2G3jx0G](http://bit.ly/2G3jx0G){:target="_blank"}
-
-- [26.13 – bit.ly/2yLGHmp](http://bit.ly/2yLGHmp){:target="_blank"}
+- [26.2 - bit.ly/2G4hNnV](http://bit.ly/2G4hNnV){:target="_blank"}  
+- [26.3 - bit.ly/2qIiEjB](http://bit.ly/2qIiEjB){:target="_blank"}  
+- [26.4 - bit.ly/2QcD2rL](http://bit.ly/2QcD2rL){:target="_blank"}  
+- [26.5 - bit.ly/2QcD2rL](http://bit.ly/2QcD2rL){:target="_blank"}  
+- [26.6 - bit.ly/2FvmLd2](http://bit.ly/2FvmLd2){:target="_blank"}  
+- [26.10 - bit.ly/2zKgANa](http://bit.ly/2zKgANa){:target="_blank"}  
+- [26.11 – bit.ly/2G4hNnV](http://bit.ly/2G4hNnV){:target="_blank"}  
+- [26.11 – bit.ly/2G4hNnV](http://bit.ly/2G4hNnV){:target="_blank"}  
+- [26.12 – bit.ly/2G4hNnV](http://bit.ly/2G4hNnV){:target="_blank"}  
+- [26.12 – bit.ly/2G3jx0G](http://bit.ly/2G3jx0G){:target="_blank"}  
+- [26.13 – bit.ly/2yLGHmp](http://bit.ly/2yLGHmp){:target="_blank"}  
 
