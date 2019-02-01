@@ -3,15 +3,15 @@
 Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch **"Kryptowährungen und Blockchains"**. Ich hoffe, das Buch erfüllt Ihre Erwartungen. Zum einfacheren Öffnen in einem Browser finden Sie hier die in dem Buch abgedruckten Links. 
 
 > Kapitelübersicht:
-
+> 
 > [Kapitel 2: Historische Entwicklung](#k2)
-
+> 
 > [Kapitel 3: Vergleich von Bitcoins mit konventionellem Geld](k3)
-
+> 
 > [Kapitel 4: Erwerb und Verlust von Bitcoins](k4)
-
+> 
 > [Kapitel 5: Blockchain](k5)
-
+> 
 [Kapitel 6: Mining](k6)
 
 [Kapitel 7: Altcoins](k7)
