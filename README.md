@@ -4,6 +4,8 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 
 ## Kapitel 2: Historische Entwicklung
 
+[create an anchor](#anchors-in-markdown)
+
 [ ] [2.1 - bitcoin.org/bitcoin.pdf](http://bitcoin.org/bitcoin.pdf){:target="_blank"}
 
 [2.5 - bit.ly/2qaIlZT](http://bit.ly/2qaIlZT){:target="_blank"}
@@ -26,7 +28,7 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 
 [3.15 - bit.ly/2qbn2HD](http://bit.ly/2qbn2HD){:target="_blank"}
 
-Kapitel 4: Erwerb und Verlust von Bitcoins
+## Kapitel 4: Erwerb und Verlust von Bitcoins
 
 [4.2 - localbitcoins.com](http://localbitcoins.com){:target="_blank"}
 
