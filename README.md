@@ -6,10 +6,7 @@ Kapitelübersicht:
 
 [Kapitel 2: Historische Entwicklung](#k2)
 
-**--- --- ---**
-
-<div style="text-align: center"> your-text-here </div>
-
+<div style="text-align: center">**--- --- ---**</div>
 
 ## Kapitel 2: Historische Entwicklung <a name="k2"></a>
  
@@ -495,265 +492,265 @@ Kapitelübersicht:
 
 - [14.6 - bit.ly/2EHbR3u](http://bit.ly/2EHbR3u){:target="_blank"}
 
-[14.9 - bit.ly/2PW5AT0](http://bit.ly/2PW5AT0){:target="_blank"}
+- [14.9 - bit.ly/2PW5AT0](http://bit.ly/2PW5AT0){:target="_blank"}
 
-[14.10 - bit.ly/2RctOIU](http://bit.ly/2RctOIU){:target="_blank"}
+- [14.10 - bit.ly/2RctOIU](http://bit.ly/2RctOIU){:target="_blank"}
 
-[14.10 - deadcoins.com](http://deadcoins.com){:target="_blank"}
+- [14.10 - deadcoins.com](http://deadcoins.com){:target="_blank"}
 
-[14.12 - icodata.io/ICO/ended](http://icodata.io/ICO/ended){:target="_blank"}
+- [14.12 - icodata.io/ICO/ended](http://icodata.io/ICO/ended){:target="_blank"}
 
-[14.13 - blockfolio.com](http://blockfolio.com){:target="_blank"}
+- [14.13 - blockfolio.com](http://blockfolio.com){:target="_blank"}
 
-[14.13 - getdelta.io](http://getdelta.io){:target="_blank"}
+- [14.13 - getdelta.io](http://getdelta.io){:target="_blank"}
 
-[14.14 - bitcoinmagazine.com](http://bitcoinmagazine.com){:target="_blank"}
+- [14.14 - bitcoinmagazine.com](http://bitcoinmagazine.com){:target="_blank"}
 
-[14.14 - blockonomi.com](http://blockonomi.com){:target="_blank"}
+- [14.14 - blockonomi.com](http://blockonomi.com){:target="_blank"}
 
-[14.14 - btcmanager.com](http://btcmanager.com){:target="_blank"}
+- [14.14 - btcmanager.com](http://btcmanager.com){:target="_blank"}
 
-[14.14 - ccn.com](http://ccn.com){:target="_blank"}
+- [14.14 - ccn.com](http://ccn.com){:target="_blank"}
 
-[14.14 - coindesk.com](http://coindesk.com){:target="_blank"}
+- [14.14 - coindesk.com](http://coindesk.com){:target="_blank"}
 
-[14.14 - coinfox.info](http://coinfox.info){:target="_blank"}
+- [14.14 - coinfox.info](http://coinfox.info){:target="_blank"}
 
-[14.14 - coinspectator.com](http://coinspectator.com){:target="_blank"}
+- [14.14 - coinspectator.com](http://coinspectator.com){:target="_blank"}
 
-[14.14 - cointelegraph.com](http://cointelegraph.com){:target="_blank"}
+- [14.14 - cointelegraph.com](http://cointelegraph.com){:target="_blank"}
 
-[14.14 - cryptocontrol.io/en/articles](http://cryptocontrol.io/en/articles){:target="_blank"}
+- [14.14 - cryptocontrol.io/en/articles](http://cryptocontrol.io/en/articles){:target="_blank"}
 
-[14.14 - cryptopanic.com](http://cryptopanic.com){:target="_blank"}
+- [14.14 - cryptopanic.com](http://cryptopanic.com){:target="_blank"}
 
-[14.14 - news.bitcoin.com](http://news.bitcoin.com){:target="_blank"}
+- [14.14 - news.bitcoin.com](http://news.bitcoin.com){:target="_blank"}
 
-[14.14 - themerkle.com](http://themerkle.com){:target="_blank"}
+- [14.14 - themerkle.com](http://themerkle.com){:target="_blank"}
 
-[14.14 - reddit.com](http://reddit.com){:target="_blank"}
+- [14.14 - reddit.com](http://reddit.com){:target="_blank"}
 
-[14.14 - bitcointalk.org](http://bitcointalk.org){:target="_blank"}
+- [14.14 - bitcointalk.org](http://bitcointalk.org){:target="_blank"}
 
-[14.15 - alltimehigh.ly](http://alltimehigh.ly){:target="_blank"}
+- [14.15 - alltimehigh.ly](http://alltimehigh.ly){:target="_blank"}
 
-[14.15 - bitgur.com](http://bitgur.com){:target="_blank"}
+- [14.15 - bitgur.com](http://bitgur.com){:target="_blank"}
 
-[14.15 - bitinfocharts.com/cryptocurrency-exchange-rates](http://bitinfocharts.com/cryptocurrency-exchange-rates){:target="_blank"}
+- [14.15 - bitinfocharts.com/cryptocurrency-exchange-rates](http://bitinfocharts.com/cryptocurrency-exchange-rates){:target="_blank"}
 
-[14.15 - coin.fyi](http://coin.fyi){:target="_blank"}
+- [14.15 - coin.fyi](http://coin.fyi){:target="_blank"}
 
-[14.15 - coin360.io](http://coin360.io){:target="_blank"}
+- [14.15 - coin360.io](http://coin360.io){:target="_blank"}
 
-[14.15 - coincap.io](http://coincap.io){:target="_blank"}
+- [14.15 - coincap.io](http://coincap.io){:target="_blank"}
 
-[14.15 - coincheckup.com](http://coincheckup.com){:target="_blank"}
+- [14.15 - coincheckup.com](http://coincheckup.com){:target="_blank"}
 
-[14.15 - coincodex.com](http://coincodex.com){:target="_blank"}
+- [14.15 - coincodex.com](http://coincodex.com){:target="_blank"}
 
-[14.15 - coingecko.com](http://coingecko.com){:target="_blank"}
+- [14.15 - coingecko.com](http://coingecko.com){:target="_blank"}
 
-[14.15 - coingossip.io](http://coingossip.io){:target="_blank"}
+- [14.15 - coingossip.io](http://coingossip.io){:target="_blank"}
 
-[14.15 - coinlib.io](http://coinlib.io){:target="_blank"}
+- [14.15 - coinlib.io](http://coinlib.io){:target="_blank"}
 
-[14.15 - coinmarketcap.com](http://coinmarketcap.com){:target="_blank"}
+- [14.15 - coinmarketcap.com](http://coinmarketcap.com){:target="_blank"}
 
-[14.15 - cryptalert.com](http://cryptalert.com){:target="_blank"}
+- [14.15 - cryptalert.com](http://cryptalert.com){:target="_blank"}
 
-[14.15 - cryptocoincharts.info](http://cryptocoincharts.info){:target="_blank"}
+- [14.15 - cryptocoincharts.info](http://cryptocoincharts.info){:target="_blank"}
 
-[14.15 - cryptowat.ch](http://cryptowat.ch){:target="_blank"}
+- [14.15 - cryptowat.ch](http://cryptowat.ch){:target="_blank"}
 
-[14.15 - nomics.com](http://nomics.com){:target="_blank"}
+- [14.15 - nomics.com](http://nomics.com){:target="_blank"}
 
-[14.15 - onchainfx.com](http://onchainfx.com){:target="_blank"}
+- [14.15 - onchainfx.com](http://onchainfx.com){:target="_blank"}
 
-[14.15 - solume.io](http://solume.io){:target="_blank"}
+- [14.15 - solume.io](http://solume.io){:target="_blank"}
 
-[14.15 - worldcoinindex.com](http://worldcoinindex.com){:target="_blank"}
+- [14.15 - worldcoinindex.com](http://worldcoinindex.com){:target="_blank"}
 
-[14.16 - coinmarketcal.com](http://coinmarketcal.com){:target="_blank"}
+- [14.16 - coinmarketcal.com](http://coinmarketcal.com){:target="_blank"}
 
-[14.16 - coinscalendar.com](http://coinscalendar.com){:target="_blank"}
+- [14.16 - coinscalendar.com](http://coinscalendar.com){:target="_blank"}
 
-[14.16 - meetup.com](http://meetup.com){:target="_blank"}
+- [14.16 - meetup.com](http://meetup.com){:target="_blank"}
 
-[14.17 - medium.com/@cburniske](http://medium.com/@cburniske){:target="_blank"}
+- [14.17 - medium.com/@cburniske](http://medium.com/@cburniske){:target="_blank"}
 
-[14.17 - elaineou.com](http://elaineou.com){:target="_blank"}
+- [14.17 - elaineou.com](http://elaineou.com){:target="_blank"}
 
-[14.17 - bit.ly/2HBXJJg](http://bit.ly/2HBXJJg){:target="_blank"}
+- [14.17 - bit.ly/2HBXJJg](http://bit.ly/2HBXJJg){:target="_blank"}
 
-[14.17 - unenumerated.blogspot.co.at](http://unenumerated.blogspot.co.at){:target="_blank"}
+- [14.17 - unenumerated.blogspot.co.at](http://unenumerated.blogspot.co.at){:target="_blank"}
 
-[14.17 - prestonbyrne.com/blog](http://prestonbyrne.com/blog){:target="_blank"}
+- [14.17 - prestonbyrne.com/blog](http://prestonbyrne.com/blog){:target="_blank"}
 
-[14.17 - thecryptocurrencyinvestor.com](http://thecryptocurrencyinvestor.com){:target="_blank"}
+- [14.17 - thecryptocurrencyinvestor.com](http://thecryptocurrencyinvestor.com){:target="_blank"}
 
-[14.17 - tokeneconomy.co](http://tokeneconomy.co){:target="_blank"}
+- [14.17 - tokeneconomy.co](http://tokeneconomy.co){:target="_blank"}
 
-[14.17 - medium.com/@tuurdemeester](http://medium.com/@tuurdemeester){:target="_blank"}
+- [14.17 - medium.com/@tuurdemeester](http://medium.com/@tuurdemeester){:target="_blank"}
 
-[14.17 - unhashed.com](http://unhashed.com){:target="_blank"}
+- [14.17 - unhashed.com](http://unhashed.com){:target="_blank"}
 
-[14.17 - woobull.com](http://woobull.com){:target="_blank"}
+- [14.17 - woobull.com](http://woobull.com){:target="_blank"}
 
-[14.18 - bitwiseinvestments.com/indexes](http://bitwiseinvestments.com/indexes){:target="_blank"}
+- [14.18 - bitwiseinvestments.com/indexes](http://bitwiseinvestments.com/indexes){:target="_blank"}
 
-[14.18 - bletchleyindexes.com](http://bletchleyindexes.com){:target="_blank"}
+- [14.18 - bletchleyindexes.com](http://bletchleyindexes.com){:target="_blank"}
 
-[14.18 - mvis-indices.com/indices/digital-assets](http://mvis-indices.com/indices/digital-assets){:target="_blank"}
+- [14.18 - mvis-indices.com/indices/digital-assets](http://mvis-indices.com/indices/digital-assets){:target="_blank"}
 
-[14.18 - thecrix.de](http://thecrix.de){:target="_blank"}
+- [14.18 - thecrix.de](http://thecrix.de){:target="_blank"}
 
-[14.19 - crypto20.com](http://crypto20.com){:target="_blank"}
+- [14.19 - crypto20.com](http://crypto20.com){:target="_blank"}
 
-[14.20 - bit.ly/2Ol8wa5](http://bit.ly/2Ol8wa5){:target="_blank"}
+- [14.20 - bit.ly/2Ol8wa5](http://bit.ly/2Ol8wa5){:target="_blank"}
 
-[14.21 - testnet.bitmex.com](http://testnet.bitmex.com){:target="_blank"}
+- [14.21 - testnet.bitmex.com](http://testnet.bitmex.com){:target="_blank"}
 
-[14.21 - coinmarketgame.com](http://coinmarketgame.com){:target="_blank"}
+- [14.21 - coinmarketgame.com](http://coinmarketgame.com){:target="_blank"}
 
 ## Kapitel 16: Zukunft von Kryptowährungen <a name="k16"></a>
 
-[16.1 - bit.ly/2CExhM1](http://bit.ly/2CExhM1){:target="_blank"}
+- [16.1 - bit.ly/2CExhM1](http://bit.ly/2CExhM1){:target="_blank"}
 
-[16.2 - scambitcoin.com](http://scambitcoin.com){:target="_blank"}
+- [16.2 - scambitcoin.com](http://scambitcoin.com){:target="_blank"}
 
-[16.2 - badbitcoin.org/thebadlist/index.htm](http://badbitcoin.org/thebadlist/index.htm){:target="_blank"}
+- [16.2 - badbitcoin.org/thebadlist/index.htm](http://badbitcoin.org/thebadlist/index.htm){:target="_blank"}
 
-[16.3 - bit.ly/2Q0UKLz](http://bit.ly/2Q0UKLz){:target="_blank"}
+- [16.3 - bit.ly/2Q0UKLz](http://bit.ly/2Q0UKLz){:target="_blank"}
 
-[16.4 - bit.ly/2vP8mmZ](http://bit.ly/2vP8mmZ){:target="_blank"}   
+- [16.4 - bit.ly/2vP8mmZ](http://bit.ly/2vP8mmZ){:target="_blank"}   
 
-[16.5 - bit.ly/2ArVT9e](http://bit.ly/2ArVT9e){:target="_blank"}
+- [16.5 - bit.ly/2ArVT9e](http://bit.ly/2ArVT9e){:target="_blank"}
 
-[16.6 - bit.ly/2mybpJd](http://bit.ly/2mybpJd){:target="_blank"}
+- [16.6 - bit.ly/2mybpJd](http://bit.ly/2mybpJd){:target="_blank"}
 
-[16.10 - bit.ly/2AFvbKx](http://bit.ly/2AFvbKx){:target="_blank"}
+- [16.10 - bit.ly/2AFvbKx](http://bit.ly/2AFvbKx){:target="_blank"}
 
-[16.11 - bit.ly/2Po1Wny](http://bit.ly/2Po1Wny){:target="_blank"}
+- [16.11 - bit.ly/2Po1Wny](http://bit.ly/2Po1Wny){:target="_blank"}
 
-[16.11 - bit.ly/2ySyeQD](http://bit.ly/2ySyeQD){:target="_blank"}
+- [16.11 - bit.ly/2ySyeQD](http://bit.ly/2ySyeQD){:target="_blank"}
 
-[16.11 – nicehash.com](http://nicehash.com){:target="_blank"}
+- [16.11 – nicehash.com](http://nicehash.com){:target="_blank"}
 
-[16.11 – miningrigrentals.com](http://miningrigrentals.com){:target="_blank"}
+- [16.11 – miningrigrentals.com](http://miningrigrentals.com){:target="_blank"}
 
-[16.11 - bit.ly/2D3hB69](http://bit.ly/2D3hB69){:target="_blank"}
+- [16.11 - bit.ly/2D3hB69](http://bit.ly/2D3hB69){:target="_blank"}
 
 ## Kapitel 17: Disruption durch Blockchain-Technologie <a name="k17"></a>
 
-[17.4 - bit.ly/1KlN8ZR](http://bit.ly/1KlN8ZR){:target="_blank"}
+- [17.4 - bit.ly/1KlN8ZR](http://bit.ly/1KlN8ZR){:target="_blank"}
 
-[17.5 - bit.ly/2P7Yudt](http://bit.ly/2P7Yudt){:target="_blank"}   
+- [17.5 - bit.ly/2P7Yudt](http://bit.ly/2P7Yudt){:target="_blank"}   
 
-[17.5 - bit.ly/2RuYKEh](http://bit.ly/2RuYKEh){:target="_blank"}
+- [17.5 - bit.ly/2RuYKEh](http://bit.ly/2RuYKEh){:target="_blank"}
 
-[17.5 - bit.ly/2Uk8oej](http://bit.ly/2Uk8oej){:target="_blank"}
+- [17.5 - bit.ly/2Uk8oej](http://bit.ly/2Uk8oej){:target="_blank"}
 
-[17.5 - bit.ly/2OjEwvi](http://bit.ly/2OjEwvi){:target="_blank"}
+- [17.5 - bit.ly/2OjEwvi](http://bit.ly/2OjEwvi){:target="_blank"}
 
-[17.7 - tripadvisor.com](http://tripadvisor.com){:target="_blank"}
+- [17.7 - tripadvisor.com](http://tripadvisor.com){:target="_blank"}
 
-[17.7 - facebook.com](http://facebook.com){:target="_blank"}
+- [17.7 - facebook.com](http://facebook.com){:target="_blank"}
 
-[17.7 - youtube.com](http://youtube.com){:target="_blank"}
+- [17.7 - youtube.com](http://youtube.com){:target="_blank"}
 
-[17.7 - instagram.com](http://instagram.com){:target="_blank"}
+- [17.7 - instagram.com](http://instagram.com){:target="_blank"}
 
-[17.7 - twitter.com](http://twitter.com){:target="_blank"}
+- [17.7 - twitter.com](http://twitter.com){:target="_blank"}
 
-[17.7 - reddit.com](http://reddit.com){:target="_blank"}
+- [17.7 - reddit.com](http://reddit.com){:target="_blank"}
 
-[17.7 - tumblr.com](http://tumblr.com){:target="_blank"}
+- [17.7 - tumblr.com](http://tumblr.com){:target="_blank"}
 
-[17.7 - mail.google.com](http://mail.google.com){:target="_blank"}
+- [17.7 - mail.google.com](http://mail.google.com){:target="_blank"}
 
-[17.7 - bing.com](http://bing.com){:target="_blank"}
+- [17.7 - bing.com](http://bing.com){:target="_blank"}
 
-[17.7 - steemit.com](http://steemit.com){:target="_blank"}
+- [17.7 - steemit.com](http://steemit.com){:target="_blank"}
 
-[17.7 - basicattentiontoken.org](http://basicattentiontoken.org){:target="_blank"}
+- [17.7 - basicattentiontoken.org](http://basicattentiontoken.org){:target="_blank"}
 
-[17.8 - bit.ly/25hWemd](http://bit.ly/25hWemd){:target="_blank"}
+- [17.8 - bit.ly/25hWemd](http://bit.ly/25hWemd){:target="_blank"}
 
-[17.8 - airbnb.com](http://airbnb.com){:target="_blank"}
+- [17.8 - airbnb.com](http://airbnb.com){:target="_blank"}
 
-[17.8 - uber.com](http://uber.com){:target="_blank"}
+- [17.8 - uber.com](http://uber.com){:target="_blank"}
 
-[17.8 - amazon.com](http://amazon.com){:target="_blank"}
+- [17.8 - amazon.com](http://amazon.com){:target="_blank"}
 
-[17.8 - ebay.com](http://ebay.com){:target="_blank"}
+- [17.8 - ebay.com](http://ebay.com){:target="_blank"}
 
-[17.10 - bloom.bg/2BsDCLg](http://bloom.bg/2BsDCLg){:target="_blank"}
+- [17.10 - bloom.bg/2BsDCLg](http://bloom.bg/2BsDCLg){:target="_blank"}
 
-[17.10 - gtnr.it/2xHB19I](http://gtnr.it/2xHB19I){:target="_blank"}   
+- [17.10 - gtnr.it/2xHB19I](http://gtnr.it/2xHB19I){:target="_blank"}   
 
-[17.10 - mck.co/2At0ng5](http://mck.co/2At0ng5){:target="_blank"}
+- [17.10 - mck.co/2At0ng5](http://mck.co/2At0ng5){:target="_blank"}
 
-[17.11 - bit.ly/2GFw32m](http://bit.ly/2GFw32m){:target="_blank"}
+- [17.11 - bit.ly/2GFw32m](http://bit.ly/2GFw32m){:target="_blank"}
 
-[17.12 - daaa.at](http://daaa.at){:target="_blank"}
+- [17.12 - daaa.at](http://daaa.at){:target="_blank"}
 
-[17.12 - bundesblock.de](http://bundesblock.de){:target="_blank"}
+- [17.12 - bundesblock.de](http://bundesblock.de){:target="_blank"}
 
-[17.12 - blockchainhub.net](http://blockchainhub.net){:target="_blank"}
+- [17.12 - blockchainhub.net](http://blockchainhub.net){:target="_blank"}
 
 ## Kapitel 19: Kryptowährungen im Bilanzrecht <a name="k19"></a>
 
-[19.7 - coinmarketcap.com](http://coinmarketcap.com){:target="_blank"}
+- [19.7 - coinmarketcap.com](http://coinmarketcap.com){:target="_blank"}
 
 ## Kapitel 20: Kryptowährungen im Steuerrecht <a name="k20"></a>
 
-[20.1. - bit.ly/2E5eGdT](http://bit.ly/2E5eGdT){:target="_blank"}
+- [20.1. - bit.ly/2E5eGdT](http://bit.ly/2E5eGdT){:target="_blank"}
 
-[20.19 - coinmarketcap.com](http://coinmarketcap.com){:target="_blank"}
+- [20.19 - coinmarketcap.com](http://coinmarketcap.com){:target="_blank"}
 
-[20.19 - bit.ly/1RH9CHk](http://bit.ly/1RH9CHk){:target="_blank"}
+- [20.19 - bit.ly/1RH9CHk](http://bit.ly/1RH9CHk){:target="_blank"}
 
-[20.27 - bitdice.me](http://bitdice.me){:target="_blank"}
+- [20.27 - bitdice.me](http://bitdice.me){:target="_blank"}
 
-[20.27 - fizzy.axa](http://fizzy.axa){:target="_blank"}
+- [20.27 - fizzy.axa](http://fizzy.axa){:target="_blank"}
 
-[20.27 - augur.net](http://augur.net){:target="_blank"}
+- [20.27 - augur.net](http://augur.net){:target="_blank"}
 
-[20.47 - blockpit.io](http://blockpit.io){:target="_blank"}
+- [20.47 - blockpit.io](http://blockpit.io){:target="_blank"}
 
 ## Kapitel 21: Kryptowährungen im Gesellschaftsrecht <a name="k21"></a>
 
-[21.1 - bit.ly/2OWNdMp](http://bit.ly/2OWNdMp){:target="_blank"}
+- [21.1 - bit.ly/2OWNdMp](http://bit.ly/2OWNdMp){:target="_blank"}
 
 ## Kapitel 23: Kryptowährungen im Geldwäscherecht <a name="k23"></a>
 
-[23.1 - bit.ly/1sYPzPM](http://bit.ly/1sYPzPM){:target="_blank"}
+- [23.1 - bit.ly/1sYPzPM](http://bit.ly/1sYPzPM){:target="_blank"}
 
 ## Kapitel 24: Kryptowährungen im Gewerberecht <a name="k24"></a>
 
-[24.4 - bit.ly/2qIiEjB](http://bit.ly/2qIiEjB){:target="_blank"}
+- [24.4 - bit.ly/2qIiEjB](http://bit.ly/2qIiEjB){:target="_blank"}
 
 ## Kapitel 26: Kryptowährungen im Aufsichtsrecht <a name="k26"></a>
 
-[26.2 - bit.ly/2G4hNnV](http://bit.ly/2G4hNnV){:target="_blank"}
+- [26.2 - bit.ly/2G4hNnV](http://bit.ly/2G4hNnV){:target="_blank"}
 
-[26.3 - bit.ly/2qIiEjB](http://bit.ly/2qIiEjB){:target="_blank"}
+- [26.3 - bit.ly/2qIiEjB](http://bit.ly/2qIiEjB){:target="_blank"}
 
-[26.4 - bit.ly/2QcD2rL](http://bit.ly/2QcD2rL){:target="_blank"}
+- [26.4 - bit.ly/2QcD2rL](http://bit.ly/2QcD2rL){:target="_blank"}
 
-[26.5 - bit.ly/2QcD2rL](http://bit.ly/2QcD2rL){:target="_blank"}
+- [26.5 - bit.ly/2QcD2rL](http://bit.ly/2QcD2rL){:target="_blank"}
 
-[26.6 - bit.ly/2FvmLd2](http://bit.ly/2FvmLd2){:target="_blank"}
+- [26.6 - bit.ly/2FvmLd2](http://bit.ly/2FvmLd2){:target="_blank"}
 
-[26.10 - bit.ly/2zKgANa](http://bit.ly/2zKgANa){:target="_blank"}
+- [26.10 - bit.ly/2zKgANa](http://bit.ly/2zKgANa){:target="_blank"}
 
-[26.11 – bit.ly/2G4hNnV](http://bit.ly/2G4hNnV){:target="_blank"}
+- [26.11 – bit.ly/2G4hNnV](http://bit.ly/2G4hNnV){:target="_blank"}
 
-[26.11 – bit.ly/2G4hNnV](http://bit.ly/2G4hNnV){:target="_blank"}
+- [26.11 – bit.ly/2G4hNnV](http://bit.ly/2G4hNnV){:target="_blank"}
 
-[26.12 – bit.ly/2G4hNnV](http://bit.ly/2G4hNnV){:target="_blank"}
+- [26.12 – bit.ly/2G4hNnV](http://bit.ly/2G4hNnV){:target="_blank"}
 
-[26.12 – bit.ly/2G3jx0G](http://bit.ly/2G3jx0G){:target="_blank"}
+- [26.12 – bit.ly/2G3jx0G](http://bit.ly/2G3jx0G){:target="_blank"}
 
-[26.13 – bit.ly/2yLGHmp](http://bit.ly/2yLGHmp){:target="_blank"}
+- [26.13 – bit.ly/2yLGHmp](http://bit.ly/2yLGHmp){:target="_blank"}
 
