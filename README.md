@@ -46,7 +46,7 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 
 
 
-# <div style="text-align: center">--- --- ---</div>
+<h1><div style="text-align: center">--- --- ---</div></h1>
 
 ## Kapitel 2: Historische Entwicklung <a name="k2"></a>
  
