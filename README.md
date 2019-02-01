@@ -6,10 +6,10 @@ Kapitelübersicht:
 
 [Kapitel 2: Historische Entwicklung](#k2)
 
+**--- --- ---**
+
 ## Kapitel 2: Historische Entwicklung <a name="k2"></a>
  
-[create an anchor](#anchors-in-markdown)
-
 - [2.1 - bitcoin.org/bitcoin.pdf](http://bitcoin.org/bitcoin.pdf){:target="_blank"}
 
 - [2.5 - bit.ly/2qaIlZT](http://bit.ly/2qaIlZT){:target="_blank"}
