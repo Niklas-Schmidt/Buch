@@ -8,6 +8,9 @@ Kapitelübersicht:
 
 **--- --- ---**
 
+<div style="text-align: center"> your-text-here </div>
+
+
 ## Kapitel 2: Historische Entwicklung <a name="k2"></a>
  
 - [2.1 - bitcoin.org/bitcoin.pdf](http://bitcoin.org/bitcoin.pdf){:target="_blank"}
@@ -234,263 +237,263 @@ Kapitelübersicht:
 
 - [10.2 - bytecoin.org](http://bytecoin.org){:target="_blank"}
 
-[10.2 - bytom.io](http://bytom.io){:target="_blank"}
+- [10.2 - bytom.io](http://bytom.io){:target="_blank"}
 
-[10.2 - cardano.org](http://cardano.org){:target="_blank"}
+- [10.2 - cardano.org](http://cardano.org){:target="_blank"}
 
-[10.2 - chain.link](http://chain.link){:target="_blank"}
+- [10.2 - chain.link](http://chain.link){:target="_blank"}
 
-[10.2 - cryptonex.org](http://cryptonex.org){:target="_blank"}
+- [10.2 - cryptonex.org](http://cryptonex.org){:target="_blank"}
 
-[10.2 - cybermiles.io](http://cybermiles.io){:target="_blank"}
+- [10.2 - cybermiles.io](http://cybermiles.io){:target="_blank"}
 
-[10.2 - makerdao.com/dai](http://makerdao.com/dai){:target="_blank"}
+- [10.2 - makerdao.com/dai](http://makerdao.com/dai){:target="_blank"}
 
-[10.2 - dash.org](http://dash.org){:target="_blank"}
+- [10.2 - dash.org](http://dash.org){:target="_blank"}
 
-[10.2 - decentraland.org](http://decentraland.org){:target="_blank"}
+- [10.2 - decentraland.org](http://decentraland.org){:target="_blank"}
 
-[10.2 - decred.org](http://decred.org){:target="_blank"}
+- [10.2 - decred.org](http://decred.org){:target="_blank"}
 
-[10.2 - dentacoin.com](http://dentacoin.com){:target="_blank"}
+- [10.2 - dentacoin.com](http://dentacoin.com){:target="_blank"}
 
-[10.2 - digibyte.io](http://digibyte.io){:target="_blank"}
+- [10.2 - digibyte.io](http://digibyte.io){:target="_blank"}
 
-[10.2 - digix.global](http://digix.global){:target="_blank"}
+- [10.2 - digix.global](http://digix.global){:target="_blank"}
 
-[10.2 - dogecoin.com](http://dogecoin.com){:target="_blank"}
+- [10.2 - dogecoin.com](http://dogecoin.com){:target="_blank"}
 
-[10.2 - elastos.org](http://elastos.org){:target="_blank"}
+- [10.2 - elastos.org](http://elastos.org){:target="_blank"}
 
-[10.2 - electroneum.com](http://electroneum.com){:target="_blank"}
+- [10.2 - electroneum.com](http://electroneum.com){:target="_blank"}
 
-[10.2 - eos.io](http://eos.io){:target="_blank"}
+- [10.2 - eos.io](http://eos.io){:target="_blank"}
 
-[10.2 - ethereum.org](http://ethereum.org){:target="_blank"}
+- [10.2 - ethereum.org](http://ethereum.org){:target="_blank"}
 
-[10.2 - ethereumclassic.org](http://ethereumclassic.org){:target="_blank"}
+- [10.2 - ethereumclassic.org](http://ethereumclassic.org){:target="_blank"}
 
-[10.2 - factomprotocol.org](http://factomprotocol.org){:target="_blank"}
+- [10.2 - factomprotocol.org](http://factomprotocol.org){:target="_blank"}
 
-[10.2 - golem.network](http://golem.network){:target="_blank"}
+- [10.2 - golem.network](http://golem.network){:target="_blank"}
 
-[10.2 - gxs.gxb.io/en](http://gxs.gxb.io/en){:target="_blank"}
+- [10.2 - gxs.gxb.io/en](http://gxs.gxb.io/en){:target="_blank"}
 
-[10.2 - holochain.org](http://holochain.org){:target="_blank"}
+- [10.2 - holochain.org](http://holochain.org){:target="_blank"}
 
-[10.2 - horizen.global](http://horizen.global){:target="_blank"}
+- [10.2 - horizen.global](http://horizen.global){:target="_blank"}
 
-[10.2 - hbg.com](http://hbg.com){:target="_blank"}
+- [10.2 - hbg.com](http://hbg.com){:target="_blank"}
 
-[10.2 - h.cash](http://h.cash){:target="_blank"}
+- [10.2 - h.cash](http://h.cash){:target="_blank"}
 
-[10.2 - icon.foundation](http://icon.foundation){:target="_blank"}
+- [10.2 - icon.foundation](http://icon.foundation){:target="_blank"}
 
-[10.2 - insightchain.io](http://insightchain.io){:target="_blank"}
+- [10.2 - insightchain.io](http://insightchain.io){:target="_blank"}
 
-[10.2 - iost.io](http://iost.io){:target="_blank"}
+- [10.2 - iost.io](http://iost.io){:target="_blank"}
 
-[10.2 - iota.org](http://iota.org){:target="_blank"}
+- [10.2 - iota.org](http://iota.org){:target="_blank"}
 
-[10.2 - komodoplatform.com](http://komodoplatform.com){:target="_blank"}
+- [10.2 - komodoplatform.com](http://komodoplatform.com){:target="_blank"}
 
-[10.2 - kucoin.com](http://kucoin.com){:target="_blank"}
+- [10.2 - kucoin.com](http://kucoin.com){:target="_blank"}
 
-[10.2 - lisk.io](http://lisk.io){:target="_blank"}
+- [10.2 - lisk.io](http://lisk.io){:target="_blank"}
 
-[10.2 - litecoin.com](http://litecoin.com){:target="_blank"}
+- [10.2 - litecoin.com](http://litecoin.com){:target="_blank"}
 
-[10.2 - loopring.org](http://loopring.org){:target="_blank"}
+- [10.2 - loopring.org](http://loopring.org){:target="_blank"}
 
-[10.2 - maidsafe.net](http://maidsafe.net){:target="_blank"}
+- [10.2 - maidsafe.net](http://maidsafe.net){:target="_blank"}
 
-[10.2 - makerdao.com](http://makerdao.com){:target="_blank"}
+- [10.2 - makerdao.com](http://makerdao.com){:target="_blank"}
 
-[10.2 - crypto.com](http://crypto.com){:target="_blank"}
+- [10.2 - crypto.com](http://crypto.com){:target="_blank"}
 
-[10.2 - mvs.org](http://mvs.org){:target="_blank"}
+- [10.2 - mvs.org](http://mvs.org){:target="_blank"}
 
-[10.2 - mith.io](http://mith.io){:target="_blank"}
+- [10.2 - mith.io](http://mith.io){:target="_blank"}
 
-[10.2 - mixin.one](http://mixin.one){:target="_blank"}
+- [10.2 - mixin.one](http://mixin.one){:target="_blank"}
 
-[10.2 - moac.io](http://moac.io){:target="_blank"}
+- [10.2 - moac.io](http://moac.io){:target="_blank"}
 
-[10.2 - monacoin.org](http://monacoin.org){:target="_blank"}
+- [10.2 - monacoin.org](http://monacoin.org){:target="_blank"}
 
-[10.2 - getmonero.org](http://getmonero.org){:target="_blank"}
+- [10.2 - getmonero.org](http://getmonero.org){:target="_blank"}
 
-[10.2 - nano.org/en](http://nano.org/en){:target="_blank"}
+- [10.2 - nano.org/en](http://nano.org/en){:target="_blank"}
 
-[10.2 - nasdacoin.io](http://nasdacoin.io){:target="_blank"}
+- [10.2 - nasdacoin.io](http://nasdacoin.io){:target="_blank"}
 
-[10.2 - nem.io](http://nem.io){:target="_blank"}
+- [10.2 - nem.io](http://nem.io){:target="_blank"}
 
-[10.2 - neo.org](http://neo.org){:target="_blank"}
+- [10.2 - neo.org](http://neo.org){:target="_blank"}
 
-[10.2 - nexo.io](http://nexo.io){:target="_blank"}
+- [10.2 - nexo.io](http://nexo.io){:target="_blank"}
 
-[10.2 - odem.io](http://odem.io){:target="_blank"}
+- [10.2 - odem.io](http://odem.io){:target="_blank"}
 
-[10.2 - omg.omise.co](http://omg.omise.co){:target="_blank"}
+- [10.2 - omg.omise.co](http://omg.omise.co){:target="_blank"}
 
-[10.2 - ont.io](http://ont.io){:target="_blank"}
+- [10.2 - ont.io](http://ont.io){:target="_blank"}
 
-[10.2 - paxos.com/standard](http://paxos.com/standard){:target="_blank"}
+- [10.2 - paxos.com/standard](http://paxos.com/standard){:target="_blank"}
 
-[10.2 - polymath.network](http://polymath.network){:target="_blank"}
+- [10.2 - polymath.network](http://polymath.network){:target="_blank"}
 
-[10.2 - populous.world](http://populous.world){:target="_blank"}
+- [10.2 - populous.world](http://populous.world){:target="_blank"}
 
-[10.2 - pundix.com](http://pundix.com){:target="_blank"}
+- [10.2 - pundix.com](http://pundix.com){:target="_blank"}
 
-[10.2 - liquid.com](http://liquid.com){:target="_blank"}
+- [10.2 - liquid.com](http://liquid.com){:target="_blank"}
 
-[10.2 - qtum.org](http://qtum.org){:target="_blank"}
+- [10.2 - qtum.org](http://qtum.org){:target="_blank"}
 
-[10.2 - ravencoin.org](http://ravencoin.org){:target="_blank"}
+- [10.2 - ravencoin.org](http://ravencoin.org){:target="_blank"}
 
-[10.2 - reddcoin.com](http://reddcoin.com){:target="_blank"}
+- [10.2 - reddcoin.com](http://reddcoin.com){:target="_blank"}
 
-[10.2 - revain.org](http://revain.org){:target="_blank"}
+- [10.2 - revain.org](http://revain.org){:target="_blank"}
 
-[10.2 - sia.tech](http://sia.tech){:target="_blank"}
+- [10.2 - sia.tech](http://sia.tech){:target="_blank"}
 
-[10.2 - sirinlabs.com](http://sirinlabs.com){:target="_blank"}
+- [10.2 - sirinlabs.com](http://sirinlabs.com){:target="_blank"}
 
-[10.2 - status.im](http://status.im){:target="_blank"}
+- [10.2 - status.im](http://status.im){:target="_blank"}
 
-[10.2 - steem.com](http://steem.com){:target="_blank"}
+- [10.2 - steem.com](http://steem.com){:target="_blank"}
 
-[10.2 - stellar.org](http://stellar.org){:target="_blank"}
+- [10.2 - stellar.org](http://stellar.org){:target="_blank"}
 
-[10.2 - stratisplatform.com](http://stratisplatform.com){:target="_blank"}
+- [10.2 - stratisplatform.com](http://stratisplatform.com){:target="_blank"}
 
-[10.2 - tenx.tech](http://tenx.tech){:target="_blank"}
+- [10.2 - tenx.tech](http://tenx.tech){:target="_blank"}
 
-[10.2 - tether.to](http://tether.to){:target="_blank"}
+- [10.2 - tether.to](http://tether.to){:target="_blank"}
 
-[10.2 - tezos.com](http://tezos.com){:target="_blank"}
+- [10.2 - tezos.com](http://tezos.com){:target="_blank"}
 
-[10.2 - tron.network](http://tron.network){:target="_blank"}
+- [10.2 - tron.network](http://tron.network){:target="_blank"}
 
-[10.2 - trusttoken.com/trueusd](http://trusttoken.com/trueusd){:target="_blank"}
+- [10.2 - trusttoken.com/trueusd](http://trusttoken.com/trueusd){:target="_blank"}
 
-[10.2 - centre.io/usdc](http://centre.io/usdc){:target="_blank"}
+- [10.2 - centre.io/usdc](http://centre.io/usdc){:target="_blank"}
 
-[10.2 - vechain.org](http://vechain.org){:target="_blank"}
+- [10.2 - vechain.org](http://vechain.org){:target="_blank"}
 
-[10.2 - vergecurrency.com](http://vergecurrency.com){:target="_blank"}
+- [10.2 - vergecurrency.com](http://vergecurrency.com){:target="_blank"}
 
-[10.2 - waltonchain.org](http://waltonchain.org){:target="_blank"}
+- [10.2 - waltonchain.org](http://waltonchain.org){:target="_blank"}
 
-[10.2 - wanchain.org](http://wanchain.org){:target="_blank"}
+- [10.2 - wanchain.org](http://wanchain.org){:target="_blank"}
 
-[10.2 - wavesplatform.com](http://wavesplatform.com){:target="_blank"}
+- [10.2 - wavesplatform.com](http://wavesplatform.com){:target="_blank"}
 
-[10.2 - wax.io](http://wax.io){:target="_blank"}
+- [10.2 - wax.io](http://wax.io){:target="_blank"}
 
-[10.2 - ripple.com/xrp](http://ripple.com/xrp){:target="_blank"}
+- [10.2 - ripple.com/xrp](http://ripple.com/xrp){:target="_blank"}
 
-[10.2 - z.cash](http://z.cash){:target="_blank"}
+- [10.2 - z.cash](http://z.cash){:target="_blank"}
 
-[10.2 - zilliqa.com](http://zilliqa.com){:target="_blank"}
+- [10.2 - zilliqa.com](http://zilliqa.com){:target="_blank"}
 
-[10.3 - onchainfx.com/categories](http://onchainfx.com/categories){:target="_blank"}
+- [10.3 - onchainfx.com/categories](http://onchainfx.com/categories){:target="_blank"}
 
 ## Kapitel 11: Wallets <a name="k11"></a>
 
-[11.7 - blockchain.com/wallet](http://blockchain.com/wallet){:target="_blank"}
+- [11.7 - blockchain.com/wallet](http://blockchain.com/wallet){:target="_blank"}
 
-[11.7 - brd.com](http://brd.com){:target="_blank"}
+- [11.7 - brd.com](http://brd.com){:target="_blank"}
 
-[11.7 - coinomi.com](http://coinomi.com){:target="_blank"}
+- [11.7 - coinomi.com](http://coinomi.com){:target="_blank"}
 
-[11.7 - coin.space](http://coin.space){:target="_blank"}
+- [11.7 - coin.space](http://coin.space){:target="_blank"}
 
-[11.7 - copay.io](http://copay.io){:target="_blank"}
+- [11.7 - copay.io](http://copay.io){:target="_blank"}
 
-[11.7 - cryptonator.com](http://cryptonator.com){:target="_blank"}
+- [11.7 - cryptonator.com](http://cryptonator.com){:target="_blank"}
 
-[11.7 - dash.org/wallets](http://dash.org/wallets){:target="_blank"}
+- [11.7 - dash.org/wallets](http://dash.org/wallets){:target="_blank"}
 
-[11.7 - edge.app](http://edge.app){:target="_blank"}
+- [11.7 - edge.app](http://edge.app){:target="_blank"}
 
-[11.7 - eidoo.io](http://eidoo.io){:target="_blank"}
+- [11.7 - eidoo.io](http://eidoo.io){:target="_blank"}
 
-[11.7 - electrum.org](http://electrum.org){:target="_blank"}
+- [11.7 - electrum.org](http://electrum.org){:target="_blank"}
 
-[11.7 - token.im](http://token.im){:target="_blank"}
+- [11.7 - token.im](http://token.im){:target="_blank"}
 
-[11.7 - jaxx.io](http://jaxx.io){:target="_blank"}
+- [11.7 - jaxx.io](http://jaxx.io){:target="_blank"}
 
-[11.7 - monerujo.io](http://monerujo.io){:target="_blank"}
+- [11.7 - monerujo.io](http://monerujo.io){:target="_blank"}
 
-[11.7 - wallet.mycelium.com](http://wallet.mycelium.com){:target="_blank"}
+- [11.7 - wallet.mycelium.com](http://wallet.mycelium.com){:target="_blank"}
 
-[11.7 - samouraiwallet.com](http://samouraiwallet.com){:target="_blank"}
+- [11.7 - samouraiwallet.com](http://samouraiwallet.com){:target="_blank"}
 
-[11.7 - toastwallet.com](http://toastwallet.com){:target="_blank"}
+- [11.7 - toastwallet.com](http://toastwallet.com){:target="_blank"}
 
-[11.8 - bit.ly/2PQkudo](http://bit.ly/2PQkudo){:target="_blank"}
+- [11.8 - bit.ly/2PQkudo](http://bit.ly/2PQkudo){:target="_blank"}
 
-[11.8 - bitaddress.org](http://bitaddress.org){:target="_blank"}
+- [11.8 - bitaddress.org](http://bitaddress.org){:target="_blank"}
 
-[11.15 - bitcoinpaperwallet.com](http://bitcoinpaperwallet.com){:target="_blank"}    
+- [11.15 - bitcoinpaperwallet.com](http://bitcoinpaperwallet.com){:target="_blank"}    
   
-[11.15 - myetherwallet.com](http://myetherwallet.com){:target="_blank"}          
+- [11.15 - myetherwallet.com](http://myetherwallet.com){:target="_blank"}          
 
-[11.15 - paper.dash.org](http://paper.dash.org){:target="_blank"}
+- [11.15 - paper.dash.org](http://paper.dash.org){:target="_blank"}
 
-[11.15 – read.bi/2z0bUBp](http://read.bi/2z0bUBp){:target="_blank"}   
+- [11.15 – read.bi/2z0bUBp](http://read.bi/2z0bUBp){:target="_blank"}   
 
-[11.15 - bitcoinpaperwallet.com](http://bitcoinpaperwallet.com){:target="_blank"}
+- [11.15 - bitcoinpaperwallet.com](http://bitcoinpaperwallet.com){:target="_blank"}
 
-[11.18 - ledger.com](http://ledger.com){:target="_blank"}
+- [11.18 - ledger.com](http://ledger.com){:target="_blank"}
 
-[11.18 - keepkey.com](http://keepkey.com){:target="_blank"}
+- [11.18 - keepkey.com](http://keepkey.com){:target="_blank"}
 
-[11.18 - trezor.io](http://trezor.io){:target="_blank"}
+- [11.18 - trezor.io](http://trezor.io){:target="_blank"}
 
 ## Kapitel 12: Exchanges <a name="k12"></a>
 
-[12.2 - coinmarketcap.com/rankings/exchanges](http://coinmarketcap.com/rankings/exchanges){:target="_blank"}
+- [12.2 - coinmarketcap.com/rankings/exchanges](http://coinmarketcap.com/rankings/exchanges){:target="_blank"}
 
-[12.2 - binance.com](http://binance.com){:target="_blank"}
+- [12.2 - binance.com](http://binance.com){:target="_blank"}
 
-[12.2 - okex.com](http://okex.com){:target="_blank"}
+- [12.2 - okex.com](http://okex.com){:target="_blank"}
 
-[12.2 – digifinex.com](http://digifinex.com){:target="_blank"}
+- [12.2 – digifinex.com](http://digifinex.com){:target="_blank"}
 
-[12.2 - hbg.com](http://hbg.com){:target="_blank"}
+- [12.2 - hbg.com](http://hbg.com){:target="_blank"}
 
-[12.2 - bit-z.com](http://bit-z.com){:target="_blank"}
+- [12.2 - bit-z.com](http://bit-z.com){:target="_blank"}
 
-[12.6 - on.ny.gov/2P4HAAs](http://on.ny.gov/2P4HAAs){:target="_blank"}
+- [12.6 - on.ny.gov/2P4HAAs](http://on.ny.gov/2P4HAAs){:target="_blank"}
 
-[12.9 - changelly.com](http://changelly.com){:target="_blank"}
+- [12.9 - changelly.com](http://changelly.com){:target="_blank"}
 
-[12.9 - coinswitch.co](http://coinswitch.co){:target="_blank"}
+- [12.9 - coinswitch.co](http://coinswitch.co){:target="_blank"}
 
-[12.9 - flyp.me](http://flyp.me){:target="_blank"}
+- [12.9 - flyp.me](http://flyp.me){:target="_blank"}
 
-[12.9 - morphtoken.com](http://morphtoken.com){:target="_blank"}
+- [12.9 - morphtoken.com](http://morphtoken.com){:target="_blank"}
 
-[12.9 - shapeshift.io](http://shapeshift.io){:target="_blank"}
+- [12.9 - shapeshift.io](http://shapeshift.io){:target="_blank"}
 
-[12.13 - bitmex.com](http://bitmex.com){:target="_blank"}
+- [12.13 - bitmex.com](http://bitmex.com){:target="_blank"}
 
-[12.13 - deribit.com](http://deribit.com){:target="_blank"}
+- [12.13 - deribit.com](http://deribit.com){:target="_blank"}
 
 ## Kapitel 14: Investieren in Kryptowährungen <a name="k14"></a>
 
-[14.2 - bit.ly/2OILjDB](http://bit.ly/2OILjDB){:target="_blank"}
+- [14.2 - bit.ly/2OILjDB](http://bit.ly/2OILjDB){:target="_blank"}
 
-[14.3 - on.mktw.net/2DmwcdP](http://on.mktw.net/2DmwcdP){:target="_blank"}
+- [14.3 - on.mktw.net/2DmwcdP](http://on.mktw.net/2DmwcdP){:target="_blank"}
 
-[14.4 - bit.ly/1Pzd6h0](http://bit.ly/1Pzd6h0){:target="_blank"}
+- [14.4 - bit.ly/1Pzd6h0](http://bit.ly/1Pzd6h0){:target="_blank"}
 
-[14.6 - bit.ly/2EHbR3u](http://bit.ly/2EHbR3u){:target="_blank"}
+- [14.6 - bit.ly/2EHbR3u](http://bit.ly/2EHbR3u){:target="_blank"}
 
 [14.9 - bit.ly/2PW5AT0](http://bit.ly/2PW5AT0){:target="_blank"}
 
