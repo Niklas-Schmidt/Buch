@@ -97,95 +97,56 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 <a name="k7"></a>
 ## Kapitel 7: Altcoins 
 
-- [7.1 - build-a-co.in](http://build-a-co.in){:target="_blank"}
-
-- [7.3 - bit.ly/2CExhM1](http://bit.ly/2CExhM1){:target="_blank"} 
-
+- [7.1 - build-a-co.in](http://build-a-co.in){:target="_blank"}  
+- [7.3 - bit.ly/2CExhM1](http://bit.ly/2CExhM1){:target="_blank"}   
 - [7.3 - bit.ly/2CAWTcV](http://bit.ly/2CAWTcV){:target="_blank"}     
-                          
-- [7.13 - stable.report](http://stable.report){:target="_blank"}
+- [7.13 - stable.report](http://stable.report){:target="_blank"}  
 
 <a name="k8"></a>
 ## Kapitel 8: Ethereum 
 
-- [8.3 - bit.ly/2i2IRpB](http://bit.ly/2i2IRpB){:target="_blank"}
-
-- [8.4 - kickstarter.com](http://kickstarter.com){:target="_blank"}
-
-- [8.4 - indiegogo.com](http://indiegogo.com){:target="_blank"}
-
-- [8.4 - satoshidice.com](http://satoshidice.com){:target="_blank"}
-
-- [8.4 - flightstats.com](http://flightstats.com){:target="_blank"}
-
-- [8.6 - metamask.io](http://metamask.io){:target="_blank"}
-
-- [8.7 - airbnb.com](http://airbnb.com){:target="_blank"}
-
-- [8.7 - uber.com](http://uber.com){:target="_blank"}
-
-- [8.11 - ethgasstation.info](http://ethgasstation.info){:target="_blank"}
-
-- [8.12 - dappradar.com](http://dappradar.com){:target="_blank"}
-
-- [8.12 - stateofthedapps.com](http://stateofthedapps.com){:target="_blank"}
-
-- [8.14 - bit.ly/1UwmOVH](http://bit.ly/1UwmOVH){:target="_blank"}
-
-- [8.14 - bit.ly/2uySAZs](http://bit.ly/2uySAZs){:target="_blank"}
-
-- [8.18 - isiterc20.com](http://isiterc20.com){:target="_blank"}
-
-- [8.19 - cryptokitties.co](http://cryptokitties.co){:target="_blank"}
+- [8.3 - bit.ly/2i2IRpB](http://bit.ly/2i2IRpB){:target="_blank"}  
+- [8.4 - kickstarter.com](http://kickstarter.com){:target="_blank"}  
+- [8.4 - indiegogo.com](http://indiegogo.com){:target="_blank"}  
+- [8.4 - satoshidice.com](http://satoshidice.com){:target="_blank"}  
+- [8.4 - flightstats.com](http://flightstats.com){:target="_blank"}  
+- [8.6 - metamask.io](http://metamask.io){:target="_blank"}  
+- [8.7 - airbnb.com](http://airbnb.com){:target="_blank"}  
+- [8.7 - uber.com](http://uber.com){:target="_blank"}  
+- [8.11 - ethgasstation.info](http://ethgasstation.info){:target="_blank"}  
+- [8.12 - dappradar.com](http://dappradar.com){:target="_blank"}  
+- [8.12 - stateofthedapps.com](http://stateofthedapps.com){:target="_blank"}  
+- [8.14 - bit.ly/1UwmOVH](http://bit.ly/1UwmOVH){:target="_blank"}  
+- [8.14 - bit.ly/2uySAZs](http://bit.ly/2uySAZs){:target="_blank"}  
+- [8.18 - isiterc20.com](http://isiterc20.com){:target="_blank"}  
+- [8.19 - cryptokitties.co](http://cryptokitties.co){:target="_blank"}  
 
 <a name="k9"></a>
 ## Kapitel 9: ICOs 
 
-- [9.1 - bit.ly/2EGhfnC](http://bit.ly/2EGhfnC){:target="_blank"}
-
-- [9.2 - bit.ly/2BWWDFs](http://bit.ly/2BWWDFs){:target="_blank"}
-
-- [9.2 - icodata.io/stats/2018](http://icodata.io/stats/2018){:target="_blank"}
-
-- [9.2 - bit.ly/2D34ORa](http://bit.ly/2D34ORa){:target="_blank"}
-
-- [9.3 - www.herosphere.gg](http:/ www.herosphere.gg){:target="_blank"}
-
-- [9.3 - www.hydrominer.org](http://www.hydrominer.org){:target="_blank"}
-
-- [9.3 - pantos.io](http://pantos.io){:target="_blank"}     
-       
-- [9.4 - etherscan.io/tokens](http://etherscan.io/tokens){:target="_blank"}
-
-- [9.6 - bit.ly/2KT33X3](http://bit.ly/2KT33X3){:target="_blank"}
-
-- [9.7 – coinschedule.com](http://coinschedule.com){:target="_blank"}
-
-- [9.7 – icoalert.com](http://icoalert.com){:target="_blank"}
-
-- [9.7 – icobench.com](http://icobench.com){:target="_blank"}
-
-- [9.7 – icodrops.com](http://icodrops.com){:target="_blank"}
-
-- [9.7 – icorating.com](http://icorating.com){:target="_blank"}
-
-- [9.7 – icotracker.net](http://icotracker.net){:target="_blank"}
-
-- [9.7 – icowatchlist.com](http://icowatchlist.com){:target="_blank"}
-
-- [9.7 – smithandcrown.com/sale](http://smithandcrown.com/sale){:target="_blank"}
-
-- [9.7 - topicolist.com](http://topicolist.com){:target="_blank"}
-
-- [9.8 - bit.ly/2AobhDL](http://bit.ly/2AobhDL){:target="_blank"}
-
-- [9.8 - on.ft.com/2vtPfyX](http://on.ft.com/2vtPfyX){:target="_blank"}
-
-- [9.8 - uetoken.com](http://uetoken.com){:target="_blank"}
-
-- [9.8 - bit.ly/2Iv56zr](http://bit.ly/2Iv56zr){:target="_blank"}
-
-- [9.13 - bit.ly/2J7OXDv](http://bit.ly/2J7OXDv){:target="_blank"}
+- [9.1 - bit.ly/2EGhfnC](http://bit.ly/2EGhfnC){:target="_blank"}  
+- [9.2 - bit.ly/2BWWDFs](http://bit.ly/2BWWDFs){:target="_blank"}  
+- [9.2 - icodata.io/stats/2018](http://icodata.io/stats/2018){:target="_blank"}  
+- [9.2 - bit.ly/2D34ORa](http://bit.ly/2D34ORa){:target="_blank"}  
+- [9.3 - www.herosphere.gg](http:/ www.herosphere.gg){:target="_blank"}  
+- [9.3 - www.hydrominer.org](http://www.hydrominer.org){:target="_blank"}  
+- [9.3 - pantos.io](http://pantos.io){:target="_blank"}  
+- [9.4 - etherscan.io/tokens](http://etherscan.io/tokens){:target="_blank"}  
+- [9.6 - bit.ly/2KT33X3](http://bit.ly/2KT33X3){:target="_blank"}  
+- [9.7 – coinschedule.com](http://coinschedule.com){:target="_blank"}  
+- [9.7 – icoalert.com](http://icoalert.com){:target="_blank"}  
+- [9.7 – icobench.com](http://icobench.com){:target="_blank"}  
+- [9.7 – icodrops.com](http://icodrops.com){:target="_blank"}  
+- [9.7 – icorating.com](http://icorating.com){:target="_blank"}  
+- [9.7 – icotracker.net](http://icotracker.net){:target="_blank"}  
+- [9.7 – icowatchlist.com](http://icowatchlist.com){:target="_blank"}  
+- [9.7 – smithandcrown.com/sale](http://smithandcrown.com/sale){:target="_blank"}  
+- [9.7 - topicolist.com](http://topicolist.com){:target="_blank"}  
+- [9.8 - bit.ly/2AobhDL](http://bit.ly/2AobhDL){:target="_blank"}  
+- [9.8 - on.ft.com/2vtPfyX](http://on.ft.com/2vtPfyX){:target="_blank"}  
+- [9.8 - uetoken.com](http://uetoken.com){:target="_blank"}  
+- [9.8 - bit.ly/2Iv56zr](http://bit.ly/2Iv56zr){:target="_blank"}  
+- [9.13 - bit.ly/2J7OXDv](http://bit.ly/2J7OXDv){:target="_blank"}  
 
 <a name="k10"></a>
 ## Kapitel 10: Coins und Tokens 
