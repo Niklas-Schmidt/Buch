@@ -4,7 +4,7 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 
 ## Kapitel 2: Historische Entwicklung
 
-- [ ] [2.1 - bitcoin.org/bitcoin.pdf](http://bitcoin.org/bitcoin.pdf){:target="_blank"}
+[ ] [2.1 - bitcoin.org/bitcoin.pdf](http://bitcoin.org/bitcoin.pdf){:target="_blank"}
 
 [2.5 - bit.ly/2qaIlZT](http://bit.ly/2qaIlZT){:target="_blank"}
 
