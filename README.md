@@ -2,6 +2,8 @@
 
 Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch "Kryptowährungen und Blockchains". Ich hoffe, das Buch erfüllt Ihre Erwartungen. Zum einfacheren Öffnen in einem Browser finden Sie hier die in dem Buch abgedruckten Links. 
 
+2.	Historische Entwicklung
+
 [2.1 - bitcoin.org/bitcoin.pdf](http://bitcoin.org/bitcoin.pdf){:target="_blank"}
 
 [2.5 - bit.ly/2qaIlZT](http://bit.ly/2qaIlZT){:target="_blank"}
@@ -66,7 +68,7 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 
 [6.13 - bit.ly/2JeDnE8](http://bit.ly/2JeDnE8){:target="_blank"}
 
-[6.16 - bit.ly/2SfbeRL](http://bit.ly/2SfbeRL){:target="_blank"} (Graphik) 
+[6.16 - bit.ly/2SfbeRL](http://bit.ly/2SfbeRL){:target="_blank"} 
 
 [6.16 - bit.ly/2SN4CJz](http://bit.ly/2SN4CJz){:target="_blank"}
 
@@ -182,7 +184,7 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 
 [10.2 - aion.network](http://aion.network){:target="_blank"}
 
-[10.2 - ardorplatform.org](http://ardorplatform.org{:target="_blank"}
+[10.2 - ardorplatform.org](http://ardorplatform.org){:target="_blank"}
 
 [10.2 - ark.io](http://ark.io){:target="_blank"}
 
@@ -204,7 +206,7 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 
 [10.2 - bitcoingold.org](http://bitcoingold.org){:target="_blank"}
 
-[10.2 - bitshares.org](http://bitshares.org]{:target="_blank"}
+[10.2 - bitshares.org](http://bitshares.org){:target="_blank"}
 
 [10.2 - boscoin.io](http://boscoin.io){:target="_blank"}
 
