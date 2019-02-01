@@ -4,12 +4,9 @@ Willkommen zu der begleitenden Website zu dem im Linde Verlag erschienenen Buch 
 
 > Kapitelübersicht:
 > 
-> [Kapitel 2: Historische Entwicklung](#k2)
-> 
-> [Kapitel 3: Vergleich von Bitcoins mit konventionellem Geld](#k3)
-> 
-> [Kapitel 4: Erwerb und Verlust von Bitcoins](#k4)
-> 
+> [Kapitel 2: Historische Entwicklung](#k2)  
+> [Kapitel 3: Vergleich von Bitcoins mit konventionellem Geld](#k3)  
+> [Kapitel 4: Erwerb und Verlust von Bitcoins](#k4)  
 > [Kapitel 5: Blockchain](#k5)
 > 
 > [Kapitel 6: Mining](#k6)
