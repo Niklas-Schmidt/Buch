@@ -222,6 +222,7 @@ Willkommen zu der begleitenden Website betreffend das im [Linde Verlag](http://w
 - [10.2 - omg.omise.co](http://omg.omise.co){:target="_blank"}  
 - [10.2 - ont.io](http://ont.io){:target="_blank"}  
 - [10.2 - paxos.com/standard](http://paxos.com/standard){:target="_blank"}  
+-	[10.2 – pivx.org](http://pivx.org){:target="_blank"}   
 - [10.2 - polymath.network](http://polymath.network){:target="_blank"}  
 - [10.2 - populous.world](http://populous.world){:target="_blank"}  
 - [10.2 - pundix.com](http://pundix.com){:target="_blank"}  
@@ -292,6 +293,7 @@ Willkommen zu der begleitenden Website betreffend das im [Linde Verlag](http://w
 - [12.2 – digifinex.com](http://digifinex.com){:target="_blank"}  
 - [12.2 - hbg.com](http://hbg.com){:target="_blank"}  
 - [12.2 - bit-z.com](http://bit-z.com){:target="_blank"}  
+- [12.2 – cryptocompare.com/portfolio](http://cryptocompare.com){:target="_blank"}
 - [12.6 - on.ny.gov/2P4HAAs](http://on.ny.gov/2P4HAAs){:target="_blank"}  
 - [12.9 - changelly.com](http://changelly.com){:target="_blank"}  
 - [12.9 - coinswitch.co](http://coinswitch.co){:target="_blank"}  
