@@ -384,8 +384,8 @@ Willkommen zu der begleitenden Website betreffend das im [Linde Verlag](http://w
 - [16.10 - bit.ly/2AFvbKx](http://bit.ly/2AFvbKx){:target="_blank"}  
 - [16.11 - bit.ly/2Po1Wny](http://bit.ly/2Po1Wny){:target="_blank"}  
 - [16.11 - bit.ly/2ySyeQD](http://bit.ly/2ySyeQD){:target="_blank"}  
-- [16.11 – nicehash.com](http://nicehash.com){:target="_blank"}  
-- [16.11 – miningrigrentals.com](http://miningrigrentals.com){:target="_blank"}  
+- [16.11 - nicehash.com](http://nicehash.com){:target="_blank"}  
+- [16.11 - miningrigrentals.com](http://miningrigrentals.com){:target="_blank"}  
 - [16.11 - bit.ly/2D3hB69](http://bit.ly/2D3hB69){:target="_blank"}  
 
 <a name="k17"></a>
