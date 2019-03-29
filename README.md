@@ -1,6 +1,6 @@
 # Kryptowährungen und Blockchains
 
-Willkommen zu der begleitenden Website betreffend das im [Linde Verlag](http://www.lindeverlag.at){:target="_blank"} erschienene Buch **"Kryptowährungen und Blockchains"**. Ich hoffe, das Buch erfüllt Ihre Erwartungen. Zum einfacheren Öffnen in einem Browser finden Sie hier die dort abgedruckten Links. 
+Willkommen zu der begleitenden Website betreffend das im [Linde Verlag](https://www.lindeverlag.at/onlineprodukt/kryptowaehrungen-und-blockchains-3058?page_id=1){:target="_blank"} erschienene Buch **"Kryptowährungen und Blockchains"**. Ich hoffe, das Buch erfüllt Ihre Erwartungen. Zum einfacheren Öffnen in einem Browser finden Sie hier die im Buch abgedruckten Links. 
 
 > Kapitelübersicht:
 > 
@@ -290,7 +290,7 @@ Willkommen zu der begleitenden Website betreffend das im [Linde Verlag](http://w
 - [12.2 - coinmarketcap.com/rankings/exchanges](http://coinmarketcap.com/rankings/exchanges){:target="_blank"}  
 - [12.2 - binance.com](http://binance.com){:target="_blank"}  
 - [12.2 - okex.com](http://okex.com){:target="_blank"}  
-- [12.2 – digifinex.com](http://digifinex.com){:target="_blank"}  
+- [12.2 - digifinex.com](http://digifinex.com){:target="_blank"}  
 - [12.2 - hbg.com](http://hbg.com){:target="_blank"}  
 - [12.2 - bit-z.com](http://bit-z.com){:target="_blank"}  
 - [12.2 – cryptocompare.com/portfolio](http://cryptocompare.com){:target="_blank"}
