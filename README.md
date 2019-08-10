@@ -2,6 +2,8 @@
 
 Willkommen zu der begleitenden Website betreffend das im [Linde Verlag](https://www.lindeverlag.at/onlineprodukt/kryptowaehrungen-und-blockchains-3058?page_id=1){:target="_blank"} erschienene Buch **"Kryptowährungen und Blockchains"**. Ich hoffe, das Buch erfüllt Ihre Erwartungen. Zum einfacheren Öffnen in einem Browser finden Sie hier die im Buch abgedruckten Links. 
 
+ ![](Cover.jpeg)
+
 > Kapitelübersicht:
 > 
 > [Kapitel 2: Historische Entwicklung](#k2)  
