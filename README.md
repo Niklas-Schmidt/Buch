@@ -135,14 +135,14 @@ Willkommen zu der begleitenden Website betreffend das im [Linde Verlag](https://
 - [9.3 - pantos.io](http://pantos.io){:target="_blank"}  
 - [9.4 - etherscan.io/tokens](http://etherscan.io/tokens){:target="_blank"}  
 - [9.6 - bit.ly/2KT33X3](http://bit.ly/2KT33X3){:target="_blank"}  
-- [9.7 – coinschedule.com](http://coinschedule.com){:target="_blank"}  
-- [9.7 – icoalert.com](http://icoalert.com){:target="_blank"}  
-- [9.7 – icobench.com](http://icobench.com){:target="_blank"}  
-- [9.7 – icodrops.com](http://icodrops.com){:target="_blank"}  
-- [9.7 – icorating.com](http://icorating.com){:target="_blank"}  
-- [9.7 – icotracker.net](http://icotracker.net){:target="_blank"}  
-- [9.7 – icowatchlist.com](http://icowatchlist.com){:target="_blank"}  
-- [9.7 – smithandcrown.com/sale](http://smithandcrown.com/sale){:target="_blank"}  
+- [9.7 - coinschedule.com](http://coinschedule.com){:target="_blank"}  
+- [9.7 - icoalert.com](http://icoalert.com){:target="_blank"}  
+- [9.7 - icobench.com](http://icobench.com){:target="_blank"}  
+- [9.7 - icodrops.com](http://icodrops.com){:target="_blank"}  
+- [9.7 - icorating.com](http://icorating.com){:target="_blank"}  
+- [9.7 - icotracker.net](http://icotracker.net){:target="_blank"}  
+- [9.7 - icowatchlist.com](http://icowatchlist.com){:target="_blank"}  
+- [9.7 - smithandcrown.com/sale](http://smithandcrown.com/sale){:target="_blank"}  
 - [9.7 - topicolist.com](http://topicolist.com){:target="_blank"}  
 - [9.8 - bit.ly/2AobhDL](http://bit.ly/2AobhDL){:target="_blank"}  
 - [9.8 - on.ft.com/2vtPfyX](http://on.ft.com/2vtPfyX){:target="_blank"}  
@@ -280,7 +280,7 @@ Willkommen zu der begleitenden Website betreffend das im [Linde Verlag](https://
 - [11.15 - bitcoinpaperwallet.com](http://bitcoinpaperwallet.com){:target="_blank"}    
 - [11.15 - myetherwallet.com](http://myetherwallet.com){:target="_blank"}          
 - [11.15 - paper.dash.org](http://paper.dash.org){:target="_blank"}  
-- [11.15 – read.bi/2z0bUBp](http://read.bi/2z0bUBp){:target="_blank"}   
+- [11.15 - read.bi/2z0bUBp](http://read.bi/2z0bUBp){:target="_blank"}   
 - [11.15 - bitcoinpaperwallet.com](http://bitcoinpaperwallet.com){:target="_blank"}  
 - [11.18 - ledger.com](http://ledger.com){:target="_blank"}  
 - [11.18 - keepkey.com](http://keepkey.com){:target="_blank"}  
@@ -295,7 +295,7 @@ Willkommen zu der begleitenden Website betreffend das im [Linde Verlag](https://
 - [12.2 - digifinex.com](http://digifinex.com){:target="_blank"}  
 - [12.2 - hbg.com](http://hbg.com){:target="_blank"}  
 - [12.2 - bit-z.com](http://bit-z.com){:target="_blank"}  
-- [12.2 – cryptocompare.com/portfolio](http://cryptocompare.com){:target="_blank"}
+- [12.2 - cryptocompare.com/portfolio](http://cryptocompare.com){:target="_blank"}
 - [12.6 - on.ny.gov/2P4HAAs](http://on.ny.gov/2P4HAAs){:target="_blank"}  
 - [12.9 - changelly.com](http://changelly.com){:target="_blank"}  
 - [12.9 - coinswitch.co](http://coinswitch.co){:target="_blank"}  
@@ -462,9 +462,9 @@ Willkommen zu der begleitenden Website betreffend das im [Linde Verlag](https://
 - [26.5 - bit.ly/2QcD2rL](http://bit.ly/2QcD2rL){:target="_blank"}  
 - [26.6 - bit.ly/2FvmLd2](http://bit.ly/2FvmLd2){:target="_blank"}  
 - [26.10 - bit.ly/2zKgANa](http://bit.ly/2zKgANa){:target="_blank"}  
-- [26.11 – bit.ly/2G4hNnV](http://bit.ly/2G4hNnV){:target="_blank"}  
-- [26.11 – bit.ly/2G4hNnV](http://bit.ly/2G4hNnV){:target="_blank"}  
-- [26.12 – bit.ly/2G4hNnV](http://bit.ly/2G4hNnV){:target="_blank"}  
-- [26.12 – bit.ly/2G3jx0G](http://bit.ly/2G3jx0G){:target="_blank"}  
-- [26.13 – bit.ly/2yLGHmp](http://bit.ly/2yLGHmp){:target="_blank"}  
+- [26.11 - bit.ly/2G4hNnV](http://bit.ly/2G4hNnV){:target="_blank"}  
+- [26.11 - bit.ly/2G4hNnV](http://bit.ly/2G4hNnV){:target="_blank"}  
+- [26.12 - bit.ly/2G4hNnV](http://bit.ly/2G4hNnV){:target="_blank"}  
+- [26.12 - bit.ly/2G3jx0G](http://bit.ly/2G3jx0G){:target="_blank"}  
+- [26.13 - bit.ly/2yLGHmp](http://bit.ly/2yLGHmp){:target="_blank"}  
 
