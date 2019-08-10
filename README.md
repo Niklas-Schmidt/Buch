@@ -224,7 +224,7 @@ Willkommen zu der begleitenden Website betreffend das im [Linde Verlag](https://
 - [10.2 - omg.omise.co](http://omg.omise.co){:target="_blank"}  
 - [10.2 - ont.io](http://ont.io){:target="_blank"}  
 - [10.2 - paxos.com/standard](http://paxos.com/standard){:target="_blank"}  
--	[10.2 – pivx.org](http://pivx.org){:target="_blank"}   
+-	[10.2 - pivx.org](http://pivx.org){:target="_blank"}   
 - [10.2 - polymath.network](http://polymath.network){:target="_blank"}  
 - [10.2 - populous.world](http://populous.world){:target="_blank"}  
 - [10.2 - pundix.com](http://pundix.com){:target="_blank"}  
