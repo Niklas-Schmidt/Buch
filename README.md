@@ -2,8 +2,7 @@
 
 Willkommen zu der begleitenden Website betreffend das im [Linde Verlag](https://www.lindeverlag.at/onlineprodukt/kryptowaehrungen-und-blockchains-3058?page_id=1){:target="_blank"} erschienene Buch **"Kryptowährungen und Blockchains".** Ich hoffe, das Buch erfüllt Ihre Erwartungen. Zum einfacheren Öffnen in einem Browser finden Sie im Folgenden die im Buch abgedruckten Links. 
 
-<p>Beste Grüße</p>
-[Niklas Schmidt](https://www.wolftheiss.com/lawyer/niklas-schmidt){:target="_blank"}
+Beste Grüße. [Niklas Schmidt](https://www.wolftheiss.com/lawyer/niklas-schmidt){:target="_blank"}
 
 <img src="Cover.GIF"> 
 
